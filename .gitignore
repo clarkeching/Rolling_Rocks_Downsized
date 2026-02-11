@@ -1,0 +1,21 @@
+# Obsidian - track settings but not workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ulysses app files
+.Ulysses-*.plist
+
+# Backup files
+*backup*.md
+*.bak
+
+# Misc
+*.base
+*.py
+*.docx
+
+# Working Copy clone (synced via iCloud)
+RollingRocksSmall/
+
+# macOS
+.DS_Store
