@@ -17,8 +17,8 @@ This is Clarke's book project. The goal is to condense the full book into a shor
 4. **Work on the condensed version** - Edits should go in `Rolling Rocks Downhill - Condensed.md`
 
 ## Location
-- **GitHub (source of truth):** `github.com/clarkeching/RollingRocksSmall`
-- **Mac local clone:** `~/Documents/RollingRocksSmall`
+- **GitHub (source of truth):** `github.com/clarkeching/Rolling_Rocks_Rewrite`
+- **Mac local clone:** `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Rolling_Rocks_Rewrite`
 - **iPad:** Working Copy → Obsidian
 
 ## Git Commands
