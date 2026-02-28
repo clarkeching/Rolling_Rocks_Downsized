@@ -19,3 +19,13 @@ RollingRocksSmall/
 
 # macOS
 .DS_Store
+
+# Media files - too large for git, already in iCloud
+*.mp4
+*.mov
+*.avi
+*.m4v
+*.mp3
+*.wav
+*.m4a
+*.flac
