@@ -222,6 +222,12 @@ Her forehead furrowed. She wasn't happy. But what choice did she have?
 
 "Good," Steve said. He pushed his chair back and put on his grandest voice. "This conference room is officially a War Room."
 
+He got back to his desk feeling desperately tired, but quite pleased with himself. There was a little yellow sticky note stuck to his computer screen. Craig Lally had called. It said URGENT.
+
+Another little nip from Norbert.
+
+Steve crumpled the note and dropped it in the bin.
+
 ---
 
 ## Ahoy, Me Mateys
@@ -393,11 +399,15 @@ She said it in such a nice but firm way that Steve did as he was told.
 
 Cheryl started explaining how they'd transformed the cafeteria—something about dog food and French fries—though Steve wasn't really paying attention. He nodded along, as Cheryl and Craig kept yabbering on, but his mind kept drifting elsewhere. He glanced at his phone several times. He had twelve new emails on the first check, twenty-three by the third, and one missed call from an unknown number. Plus, of course, he had an impossible deadline weighing heavily on his shoulders. He had no idea what to do about that. 
 
-Norbert had described the FPP shenanigans as *business as usual*, and in a way it was because project dates are always changing, and projects always run late, but in another way it wasn't. Hal and Eleanor were taking this one very seriously. And so was Steve. 
+Norbert had described the FPP shenanigans as *business as usual*, and in a way it was because project dates are always changing, and projects always run late, but in another way it wasn't. 
 
-He had no idea what a cafeteria had to do with any of it.
+What was different? Consequences. Hal and Eleanor were taking this one very seriously. And so was Steve.
 
-Cheryl was mid-sentence when Steve's phone buzzed again. 
+Steve recalled something he’d read somewhere about how the original meaning of the word Deadline. It came from war time, when prisoners of war were imprisoned in makeshift jails with no fences. Instead the guards made a line with stones or sticks, and told the prisoners that if they stayed inside the line, they’d be okay. If not, they wouldn’t.  The “dead” part of the word “Deadline” was deadly serious.  FPP’s deadline had become a whole lot more serious.
+
+Steve emerged from his thoughts, looked around him and realised he had no idea what a cafeteria had to do with any of it.
+
+Cheryl was mid-sentence when his phone buzzed again. 
 
 He glanced at the screen: Mum.
 
@@ -579,7 +589,7 @@ Steve let his breath out. "I need your help, Norbert."
 
 He said nothing.
 
-I said, "What should I do?"
+"What should I do?" Steve asked.
 
 "Did you talk to your Quality guy, Lally."
 
@@ -589,7 +599,7 @@ I said, "What should I do?"
 
 Steve chose his words carefully. "He couldn't help me with FPP. That was, and still is, my priority. He wanted to help me prevent my next FPP."
 
-Norbert said, "He called me after your chat. He that he can't help everyone, and that is especially true if they don't want help.  He said that if you ever do decide you want help, all you have to do is ask."
+Norbert said, "He called me after your chat. He said he couldn't help everyone, and that was especially true if they didn't want help. He said that if you ever did decide you wanted help, all you had to do was ask."
 
 "Oh."
 
@@ -612,7 +622,7 @@ Then he hung up.
 > [!abstract] Chapter Summary
 > *Steve swallows his pride and calls Craig, who reluctantly agrees to give him ten minutes. Steve spends eight of them explaining his crisis. Craig promises to help—a noose around one's neck focuses the mind.*
 
-Five very long minutes later, Steve forced a smile on his face and dialed Craig Lally. It was 3:56 p.m.
+Five painfully long minutes later, Steve forced a smile on his face and dialled Craig Lally. It was 3:56 p.m.
 
 Craig answered, then paused. "I didn't expect to hear from you again."
 
@@ -658,6 +668,15 @@ When they sat down, Craig had one rule.
 "Batches. Don't think about them."
 
 Steve had no idea what he was talking about.
+
+“What do you mean ’small batches’?”
+
+Craig nodded towards the kitchen. “If the kitchen were baking buns for Frankfurter Fridays, they might bake 96 at a time.  That would be a big batch. If they baked 6 at a time, that’d be a small batch.  Don’t think about small batches - okay?”
+
+Steve felt none the wiser, though he did always look forward to Frankfurter Fridays.
+
+He said, “Okay.”
+
 
 ---
 
@@ -940,85 +959,6 @@ Craig was right; small batches were key. But a key is useless without someone to
 
 ---
 
-## The Bottleneck
-
-> [!abstract] Chapter Summary
-> *Craig asks Steve a simple question: where is FPP's bottleneck? Steve can't finish The Goal, so Cheryl teaches him over bacon and eggs. Then Phil figures out that testing is about to become their constraint.*
-
-A few days later, Craig emailed Steve a question: **Where is FPP's bottleneck?**
-
-Steve didn't know what he meant, so Craig elaborated.
-
-**You've turned your software development into a factory—a test-scenario processing factory. You need to figure out where your bottleneck is because it determines how fast your factory runs. Read *The Goal* by Eli Goldratt. Ask Cheryl to show you her bottleneck.**
-
-Steve downloaded the book that evening. It was a full-length novel, not a textbook, so he couldn't just flip to the index and look up "bottleneck." His mum suggested he buy the audiobook and listen on double-speed. He fell asleep on the couch somewhere around chapter three.
-
-The next morning, he was in Cheryl's office at 6:17 a.m., hoping she could explain what he hadn't finished reading.
-
-She cooked him bacon and eggs while she did exactly that.
-
-"A bottleneck is the skinniest part of the bottle—the part that determines how fast stuff flows out. Imagine upending a big water cooler bottle. How long to empty it?"
-
-"A minute?"
-
-"And if the neck were skinnier?"
-
-"Longer."
-
-"And wider?"
-
-"Faster."
-
-She nodded. "Bottlenecks are only a tiny part of the system, but they determine how fast everything flows. The secret to life is focus—but that only works if you know *where* to focus. Your bottleneck."
-
-She told him about Mahjella in accounts payable, who had twelve people but was the only one authorized to do step four of their five-step process. She was the bottleneck—and she spent half her day on the phone apologizing to suppliers instead of processing invoices. Once she realized *she* was the constraint, it took her less than an hour to fix it: she locked herself away and focused only on step four, while her team made sure she was never starved of work or fed bad data.
-
-"Where was your bottleneck, Cheryl?"
-
-"China."
-
-"Where?"
-
-"Not *where*. *What*." She led him to the serving area. "We didn't have enough clean plates during peak hours. Plenty of food, plenty of staff, but no plates. And why? Because the dishwashers worked in big batches. We had plenty of plates—they were just all sitting dirty, waiting to be cleaned. We switched to smaller batches, kept the plates circulating, and the bottleneck went away."
-
-That afternoon, Steve met Phil on a hilltop overlooking the city.
-
-"Do you think the bottleneck concept applies to us?"
-
-Phil closed his eyes and thought. "I just ran a few thought experiments—imagining we added more people to each role. For three of them, the project didn't run any faster."
-
-"Which three?"
-
-"Analysts—most analysis is done. Customers—same reason. And managers." He smirked. "We ain't short of managers."
-
-"So it's developers or testers."
-
-Phil nodded. "In the first chunk, developers were definitely the bottleneck—we found dozens of defects but could only fix a fraction. But now we're fixing defects about as fast as we find them." He paused. "Actually, it's worse than I thought. The testers are about to get a lot busier."
-
-"More bugs?"
-
-"No. More *regression testing*." Every time they shipped a new chunk, testers had to verify they hadn't broken anything in the previous chunks. The overhead increased with every batch.
-
-Steve felt his stomach drop. "This sucks."
-
-Phil's eyes widened. "It doesn't suck—this is *awesome*. If we can squeeze a twenty percent improvement out of testing, our entire project runs twenty percent faster. We now know where to focus!"
-
-Steve thought about Cheryl's cafeteria. Testing and tasting—the words were almost identical. Cheryl had saved her kitchen by tasting her own food. Now Steve needed to save his project by focusing on the people who tasted *his* product: the testers.
-
-"So what do we do?"
-
-"We can't have developers running out ahead, building more than testers can check. That just creates piles of half-done work." Phil paused. "Would you let developers help the test team?"
-
-"Would *you*?"
-
-Phil shook his head. "I'd rather use their developer brains than their fingertips. Maybe they can automate things that make the testers more productive."
-
-They walked back to the office, agreeing on two immediate actions: cancel all non-essential meetings that consumed tester time, and change the build schedule to minimize *tester* downtime instead of developer downtime—even if it made developers less productive.
-
-The project could only move as fast as its slowest part.
-
----
-
 # Part Three: The Inverted Pyramid
 
 ## The Heart Attack Survivor
@@ -1129,7 +1069,7 @@ He nodded and carefully pulled the ladder down to its full height. It clicked in
 
 "I haven't got a clue what you're talking about. Just don't wake the kids. They'll be grumpy in the morning."
 
-Steve climbed into the attic, turned on the light, picked his way through old PCs and vacuum-packed baby babies until he found the boxes of old books. He rooted around until he found what he was looking for.
+Steve climbed into the attic, turned on the light, picked his way through old PCs and vacuum-packed baby clothes until he found the boxes of old books. He rooted around until he found what he was looking for.
 
 When he made his way back down the ladder, Mum was still there watching. He flipped through the pages and almost immediately found what he wanted.
 
@@ -1347,6 +1287,85 @@ It was exhausting. But it was working.
 
 ---
 
+## The Bottleneck
+
+> [!abstract] Chapter Summary
+> *Craig asks Steve a simple question: where is FPP's bottleneck? Steve can't finish The Goal, so Cheryl teaches him over bacon and eggs. Then Phil figures out that testing is about to become their constraint.*
+
+A few days later, Craig emailed Steve a question: **Where is FPP's bottleneck?**
+
+Steve didn't know what he meant, so Craig elaborated.
+
+**You've turned your software development into a factory—a test-scenario processing factory. You need to figure out where your bottleneck is because it determines how fast your factory runs. Read *The Goal* by Eli Goldratt. Ask Cheryl to show you her bottleneck.**
+
+Steve downloaded the book that evening. It was a full-length novel, not a textbook, so he couldn't just flip to the index and look up "bottleneck." His mum suggested he buy the audiobook and listen on double-speed. He fell asleep on the couch somewhere around chapter three.
+
+The next morning, he was in Cheryl's office at 6:17 a.m., hoping she could explain what he hadn't finished reading.
+
+She cooked him bacon and eggs while she did exactly that.
+
+"A bottleneck is the skinniest part of the bottle—the part that determines how fast stuff flows out. Imagine upending a big water cooler bottle. How long to empty it?"
+
+"A minute?"
+
+"And if the neck were skinnier?"
+
+"Longer."
+
+"And wider?"
+
+"Faster."
+
+She nodded. "Bottlenecks are only a tiny part of the system, but they determine how fast everything flows. The secret to life is focus—but that only works if you know *where* to focus. Your bottleneck."
+
+She told him about Mahjella in accounts payable, who had twelve people but was the only one authorized to do step four of their five-step process. She was the bottleneck—and she spent half her day on the phone apologizing to suppliers instead of processing invoices. Once she realized *she* was the constraint, it took her less than an hour to fix it: she locked herself away and focused only on step four, while her team made sure she was never starved of work or fed bad data.
+
+"Where was your bottleneck, Cheryl?"
+
+"China."
+
+"Where?"
+
+"Not *where*. *What*." She led him to the serving area. "We didn't have enough clean plates during peak hours. Plenty of food, plenty of staff, but no plates. And why? Because the dishwashers worked in big batches. We had plenty of plates—they were just all sitting dirty, waiting to be cleaned. We switched to smaller batches, kept the plates circulating, and the bottleneck went away."
+
+That afternoon, Steve met Phil on a hilltop overlooking the city.
+
+"Do you think the bottleneck concept applies to us?"
+
+Phil closed his eyes and thought. "I just ran a few thought experiments—imagining we added more people to each role. For three of them, the project didn't run any faster."
+
+"Which three?"
+
+"Analysts—most analysis is done. Customers—same reason. And managers." He smirked. "We ain't short of managers."
+
+"So it's developers or testers."
+
+Phil nodded. "In the first chunk, developers were definitely the bottleneck—we found dozens of defects but could only fix a fraction. But now we're fixing defects about as fast as we find them." He paused. "Actually, it's worse than I thought. The testers are about to get a lot busier."
+
+"More bugs?"
+
+"No. More *regression testing*." Every time they shipped a new chunk, testers had to verify they hadn't broken anything in the previous chunks. The overhead increased with every batch.
+
+Steve felt his stomach drop. "This sucks."
+
+Phil's eyes widened. "It doesn't suck—this is *awesome*. If we can squeeze a twenty percent improvement out of testing, our entire project runs twenty percent faster. We now know where to focus!"
+
+Steve thought about Cheryl's cafeteria. Testing and tasting—the words were almost identical. Cheryl had saved her kitchen by tasting her own food. Now Steve needed to save his project by focusing on the people who tasted *his* product: the testers.
+
+"So what do we do?"
+
+"We can't have developers running out ahead, building more than testers can check. That just creates piles of half-done work." Phil paused. "Would you let developers help the test team?"
+
+"Would *you*?"
+
+Phil shook his head. "I'd rather use their developer brains than their fingertips. Maybe they can automate things that make the testers more productive."
+
+They walked back to the office, agreeing on two immediate actions: cancel all non-essential meetings that consumed tester time, and change the build schedule to minimize *tester* downtime instead of developer downtime—even if it made developers less productive.
+
+The project could only move as fast as its slowest part.
+
+---
+
 ## Calibrating Confidence
 
 > [!abstract] Chapter Summary
@@ -1493,9 +1512,13 @@ Then he said, "Hal's happy with me then?"
 
 She chuckled. "Hal happy? What an interesting idea. As far as he's concerned, you promised February 1st, and pulling the date forward was just good management on *his* part. You're playing with the big boys and girls now, Steve. Get over it."
 
-Then she hung up on him.
+Then she turned and walked away without another word.
 
 The seagull had pooped on him, after all.
+
+He leaned against the sea wall, picked up a smooth stone, and lobbed it out over the water. It arced up, hung for a moment, then dropped into the harbor with a gentle *plop*.
+
+Gravity didn't always suck.
 
 ---
 
