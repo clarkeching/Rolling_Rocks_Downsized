@@ -8,29 +8,83 @@
 
 So let me tell you about Steve Abernethy.
 
-It's 5:26 in the morning on the first Thursday in August, and Steve's sitting in Luca's café in Watt's Bridge, Scotland. He's jet-lagged—just back from Singapore—and he's working through his three-step recovery routine: espresso, bacon, work. The bacon comes from Belfast. The eggs are local. And the espresso is the kind of thick black tar that makes everything else feel manageable.
+It's 5:26 in the morning on the first Thursday in August, and Steve's sitting in Luca's café in Watt's Bridge, Scotland—jet-lagged, freshly back from Singapore, working through step one of his three-step recovery routine.
 
-Then his phone rings. It's Phil McDermott, his chief programmer and best friend since they were thirteen. Phil has never been a morning person, so this is strange.
+Step one: espresso. Step two: bacon. Step three: work.
+
+His best friend Phil came up with the routine years ago, reasoning that jet lag was an unavoidable side effect of Steve's ambition. *If you're going to be awake at four in the morning with no chance of sleep,* Phil said, *why not be eating bacon?*
+
+Luca's dad moved to Scotland from Italy after the war, opening first a fish and chip shop and then this café, where the walls are covered in black-and-white photographs of the old country and the espresso is thick, black, and unapologetically strong. At this hour, the place belongs to the nightshift—three tables of hospital staff from Watt's Bridge Hospital, two police officers with their radios chattering softly, and half a dozen cab drivers crowded near the windows, keeping watch over their cars in the rank outside.
+
+Luca slides up to the table with a glass of cold water and an espresso. He tut-tuts, as if he disapproves of all Steve's air miles. Or his work-life balance. Or both.
+
+"Steve, my friend. Where are you back from *this time*?"
+
+"Singapore. Another conference."
+
+"You want your usual?"
+
+"Please."
+
+Luca slips away to chalk up the day's lunch specials, and Steve sips his espresso and lets the caffeine do its work. Then his phone rings.
+
+Phil McDermott. Chief programmer. Best friend since they were thirteen. Never been a morning person. This is strange.
 
 "You okay?"
 
-"I'll be there in about two minutes. I've got bad news, Steve. Can you order me breakfast? Please. And coffee. Lots of coffee."
+"You're at Luca's, right? I'll be there in two minutes. I've got bad news, Steve. Can you order me breakfast? Please. And coffee. Lots of coffee."
 
-Steve caught Luca's eye. "Can you cook me up another breakfast, same order? Phil's joining me."
+He hangs up before Steve can ask what's wrong.
 
-Luca paused, glanced across at the table of taxi drivers who'd been waiting, and smiled to himself. "I'll have both plates ready in one minute."
+Steve catches Luca's eye at the counter. "Can you cook me up another breakfast, same order? Phil's joining me. And a couple more espressos."
 
-Phil shows up looking like a bald, malnourished version of Paul McCartney, reeking of stale cigarettes and alcohol. He'd been out the night before for pre-wedding drinks when Pauline—their former lead analyst who'd supposedly moved to Birmingham to care for her sick mother-in-law—got drunk and let something slip.
+Luca pauses. He glances across at the table of cab drivers—they'd ordered before Steve, and they're still waiting. He makes a quick judgement call, the kind of quiet decision people make a dozen times a day without thinking much about it—whose need is most urgent right now?—then sets down the chalk and smiles to himself.
 
-She'd been poached. By Chaste Group. To build a copycat version of FPP—Future Perfect Project—the top-secret product Steve's team had been building for over a year. And Chaste was launching on April 1st, the same date Wyx-Fin was planning.
+"I'll have both plates ready in one minute."
 
-But Pauline didn't know FPP was running late. She thought they were on track for April. Which meant Chaste would beat them to market.
+A moment later, the café door jingles and Phil shuffles in—jeans, green T-shirt, looking like a bald, malnourished version of Paul McCartney. He walks stiffly, as if auditioning for a part in a zombie movie, and when he drops into the chair across from Steve, the smell of stale cigarettes and alcohol arrives with him.
 
-Luca arrived with two fully-loaded plates. He grinned and tilted his head toward the cabbies. "Thank them. Your need seemed greater."
+"Late night?"
 
-Phil looked down at his coffee cup. "She was a friend."
+"Pre-wedding drinks." Two of their mainframe operators are getting married that week. "I grabbed a couple hours' sleep, but I needed to talk to you. I knew you'd be here."
 
-Steve grimaced. He didn't know what else to say. They finished their food in silence.
+Before Phil can explain, Luca arrives with two fully-loaded plates, two small cups of his black tar, and two glasses of cold water. He grins and tilts his head toward the cabbies. "Thank them. Your need seemed greater."
+
+Then he leaves them alone with their food.
+
+Phil splashes water into his espresso to cool it, downs it in one gulp, eyes Steve's cup, and says, "You drinking that?" He grabs it and chugs that too, then shakes his face like a dog after a swim.
+
+Steve picks up a strip of crispy bacon—proper Belfast bacon, not the limp, apologetic kind—folds it into his mouth, and savours the salty, fatty crunch. The eggs are local and perfectly done. Step two of his recovery routine, and worth every air mile.
+
+"So," Steve says. "What's the bad news?"
+
+Phil tells him. Pauline Jones—their former lead analyst, who'd supposedly moved to Birmingham over a year ago to care for her husband's sick mother—got drunk at the pre-wedding drinks and let something slip.
+
+She'd been poached. By Chaste Group.
+
+Steve's stomach drops. Chaste has a reputation for cherry-picking easy money from established markets—credit cards, phone plans, car rentals. They don't innovate; they copy. They build smaller, cheaper, no-frills versions of other people's products, then launch hard and fast. And now they have Pauline—who'd kindly delayed her departure until just after all the hard thinking on FPP was done. Wasn't that thoughtful of her.
+
+FPP—the Future Perfect Project—is Wyx-Fin's top-secret, flagship product. Steve's team has been building it for over a year.
+
+"What's she building for them?" Steve asks, though he already knows.
+
+"A copycat. Launching April 1st."
+
+April 1st. The exact same date Wyx-Fin had planned. Chaste would piggyback off Wyx-Fin's own advertising campaign for free. The press would lap it up—David versus Goliath stories practically wrote themselves—handing Chaste free publicity on a plate. Their product would be smaller, sure, but it would appeal to sixty, maybe eighty percent of the same customers.
+
+"Hang on," Steve says. "Does Pauline know we're running late?"
+
+Phil's head comes up. "No. She thinks we're on track for April."
+
+Which means Chaste will beat them to market. By the time Wyx-Fin finally launches, most of their target customers will already have signed up with somebody else.
+
+They sit with that for a moment.
+
+Phil looks down at his empty coffee cup. "She was a friend."
+
+Steve grimaces. He doesn't know what else to say. They finish their food in silence.
+
+He watches Luca deliver the taxi drivers' breakfasts.
 
 ---
 
@@ -41,11 +95,11 @@ Steve grimaced. He didn't know what else to say. They finished their food in sil
 
 Steve made his way to his office. Wyx-Fin HQ sat just off the High Street, and his department was relegated to the sixth floor, where his prestigious corner office had its sea view blocked by a thoughtlessly placed parking garage.
 
-Before he could do anything else, he needed to get his story straight. He pulled up FPP's status reports—both of them. The public one said April 1st was "aggressive but achievable," which was code for *This date isn't really feasible, but we need to keep the pressure on, otherwise they'll slack off.* The management-eyes-only version said they were tracking toward October or November, but who really knew when it would ship? They were tracking in months, and seasons, but years were more realistic. 
+Before he could do anything else, he needed to get his story straight. He pulled up FPP's status reports—both of them. The public one said April 1st was "aggressive but achievable," which was code for *This date isn't really feasible, but we need to keep the pressure on, otherwise they'll slack off.* The management-eyes-only version said they were tracking toward October or November, but who really knew when it would ship? They were tracking in months, but the honest answer was measured in seasons. 
 
 April was nine months away, but they needed at least fifteen.
 
-He called Eleanor Scharlau, the CFO. She didn't do small talk.
+He called Eleanor Scharlau, the CFO. They had a working arrangement: he was the computer guy, she was the accountant, and neither asked the other too many questions about their speciality. She didn't do small talk.
 
 "Steven. This is early. What's up?"
 
@@ -68,13 +122,17 @@ She hung up.
 
 At noon, Steve stepped out of the elevator into the penthouse foyer. He'd barely sat down on the leather couch when Halifax Gibbet—the CEO, five foot six inches tall and round—stomped out of Eleanor's office barking "No more excuses!" and marched straight past without acknowledging Steve's existence.
 
-Ten minutes later, Eleanor led Steve into her office and pointed him toward her couch—a short-legged, luxurious, antique thing, not unlike its owner. He sank into the soft cushions, felt his pant legs ride up, and tried not to think about how this meeting was going to go.
+Ten minutes later, Eleanor led Steve into her office. The only obviously colourful thing about Eleanor, on the face of it, was her bold red spectacles. Everything else—her manner, her clothes, her office—was muted and precise. She pointed him toward her couch—a short-legged, luxurious, antique thing, not unlike its owner. Like a good doggie, he sat. He sank into the soft cushions, felt his pant legs ride up, and tried not to think about how this meeting was going to go.
 
 Eleanor got straight to the point. "Hal promised Group we would beat Chaste to market. Our new launch date is February 1st."
 
 "February? I agreed to match them, not beat them. He can’t do that."
 
-"He can, and—in fact—he just has." She spoke quietly, coldly. "The date isn't open for debate."
+"He can, and—in fact—he just has." She spoke quietly, coldly. "The date isn't open for debate. What are the odds of FPP running even later than October?"
+
+"One in six."
+
+"So we've been playing Russian roulette." She peered at him over those red spectacles. "Here's hoping you're firing blanks."
 
 Steve's mind raced. April would have been tight, but February? There's only so much functionality you can slash before the product is no longer commercially viable. There's only so much overtime before people burn out. And bringing new people onto a late project just slows everyone down. The only option left was to cut quality even more than usual.
 
@@ -86,7 +144,7 @@ Eleanor glanced at the open door. "Halifax promised our masters two things. Firs
 
 "You figure it out."
 
-It wasn't difficult. No one said it, but everyone knew Hal's job was on the line. FPP was the rabbit up his sleeve, his get-out-of-jail-free card and his rescue plan all rolled into one. The Wyxcomb Group had been pumping cash into them for the last three years. They described it as investing for growth, but really, for all the growth they'd seen so far (exactly none), they were keeping Wyx-Fin afloat. FPP was not only the rabbit up Halifax's sleeve, but also his future cash cow. No rabbit, no cow; no cash, no job. No job, no shirt on his back. No shirt, no sleeves, nowhere to hide his rabbit. Or something like that. Maybe the analogy makes more sense with top hats.
+It wasn't difficult. No one said it, but everyone knew Hal's job was on the line. FPP was the rabbit up his sleeve, his get-out-of-jail-free card and his rescue plan all rolled into one. The Wyxcomb Group had been pumping cash into them for the last three years. They described it as investing for growth, but really, for all the growth they'd seen so far (exactly none), they were keeping Wyx-Fin afloat. FPP was not only the rabbit up Halifax's sleeve, but also his future cash cow. No rabbit, no cow; no cash, no job. No job, no shirt on his back. No shirt, no sleeves, nowhere to hide his rabbit. Or something like that. Maybe the analogy makes more sense with top hats. Steve searched for a bright side, and the best he could come up with was that Hal might shaft them all, but at least he'd get a mention in his memoirs.
 
 Eleanor stood. "When you leave my office, you need to leave with a beaming smile on your face. As far as you are concerned, February 1st is just the sort of kick in the pants your guys needed."
 
@@ -123,9 +181,13 @@ He started to explain about Pauline, but his mum interrupted.
 
 "I don't imagine, then, that she betrayed you lightly."
 
-"It'll be okay."
+"My poor boy," she said. "You've all worked so long on this project."
 
-Steve put down the phone and looked out his office window. It was raining heavily outside, which didn't help his mood. He watched as, one after another, plump raindrops rolled down the glass.
+"It'll be okay. I *will* be home in time to put them to bed."
+
+"I know you will."
+
+Steve put down the phone and looked out his office window. It was raining heavily outside, which didn't help his mood. He never expected to be living with his mum in his early forties, and she never expected to be living with him. They were both still figuring it out. He watched as, one after another, plump raindrops rolled down the glass.
 
 *Drip. Drip. Drip.*
 
@@ -158,11 +220,15 @@ Steve wasn't keen on the idea. He knew someone in Wyxcomb Health had contacted t
 
 Sometimes working for Norbert felt like being nibbled to death by ducklings. A little nip here—*You don't ask for enough help*; a little nip there—*Have you read this report*? None of the nips hurt individually, but over time...
 
-“You should. Even you might learn something.”
+“Craig strikes me as being a very thoughtful man...”
+
+“I'm sure he is.”
+
+“You should read it. Even you might learn something.”
 
 "Yeah. I know. You're right," Steve said out loud, trying to sound suitably respectful while saying *nip, nip, nip* in his head. "I'll call him. But FPP's management meeting starts in a few minutes. I really have to go."
 
-Norbert sighed. They ended the call. Steve glanced at the edge of Craig Lally's report poking out from a pile on his desk and chose to ignore it. The last thing he needed was a bunch of manufacturing guys who'd lost their jobs because their factories had been closed down trying to help him.
+He thought he heard Norbert sigh. He felt bad. They ended the call. Steve glanced at the edge of Craig Lally's report poking out from a pile on his desk and chose to ignore it. The last thing he needed was a bunch of manufacturing guys who'd lost their jobs because their factories had been closed down trying to help him.
 
 He had a very important meeting to gate-crash.
 
@@ -175,7 +241,9 @@ He had a very important meeting to gate-crash.
 
 Steve gate-crashed the FPP management meeting.
 
-The team gathered in the sixth-floor conference room: Gregor, the project manager—big, scary-looking, barrel-chested with a military-style haircut (office rumor had it he slept with the lights on, not because he was scared of the dark, but because the dark was scared of him); Vrinda, the lead analyst and Steve's old friend who never minced her words; Tim Phillips from testing; and Catherine MacDonald, FPP’s commercially focused product manager, with deliberately wild red hair.
+The sixth-floor conference room looked like it came straight out of a 1990s office catalogue—oval wooden table, dark brown carpet, and a view of the castle perched dramatically on Castle Peak. The team gathered around the table: Gregor, the project manager—big, scary-looking, barrel-chested with a military-style haircut (office rumor had it he slept with the lights on, not because he was scared of the dark, but because the dark was scared of him); Vrinda, the lead analyst and Steve's old friend who never minced her words; Tim Phillips from testing; and Catherine MacDonald, FPP’s commercially focused product manager, with deliberately wild red hair.
+
+Phil arrived last. He'd showered and shaved since breakfast. "Aren't you on vacation time?" Steve asked. Phil shrugged. "Some things are more important."
 
 Steve sat at the head of the table, half-listening to Gregor drone through the Gantt chart, zoning out to study a potted palm tree by the door. There were three of them in this room and dozens of other plants spread throughout the office. Facilities hired them from a local company called Lease-A-Plant. The first time Steve heard their name mentioned, he thought they were talking about a person named Lisa Plant—who he imagined was aging rock star Robert Plant's daughter.
 
@@ -203,6 +271,8 @@ Catherine looked at Phil. "Pauline really did this?"
 He nodded.
 
 Catherine's jaw tightened. "I bet she justified it by telling herself it wasn't personal—just business." She shook her head. "I do not know what else to say."
+
+Vrinda reached across and patted Catherine on the back of her hand. "This really sucks."
 
 Steve gave them their marching orders. War Room for twenty-four hours. Deliver a recovery plan by four o'clock tomorrow. Four things to keep in mind:
 
@@ -237,7 +307,7 @@ Steve crumpled the note and dropped it in the bin.
 
 That evening, Steve came home to his fairy-tale home—a two-hundred-year-old stone gatehouse built into the defensive walls of a country estate, complete with vines creeping up the walls and round turrets, and rumours of ghosts. A couple of times each day, tourists would stop to take photographs. From the inside, it looked like any modern small house, though the doors were built for a time when people were considerably shorter.
 
-He snuck through the front door to surprise the kids. He heard Scooby-Doo playing in the den. Dropped his bag, slipped off his shoes, tiptoed down the hall.
+He snuck through the front door to surprise the kids. He heard Scooby-Doo playing in the den—the TV series, he assumed, not the cartoon dog himself come to life. He dropped his bag, slipped off his shoes, and tiptoed down the hall. Through the half-open door he could see his mum had the girls fed, bathed and in their pajamas. Ashley lay on the mat with a coloring book, tongue sticking out as she concentrated.
 
 He pushed the door open. "Ahoy, me mateys!"
 
@@ -257,6 +327,8 @@ It felt good to be properly home.
 > *The team presents their War Room plan: a skeletal product with features force-ranked on sticky notes. Shockingly, they've descoped the web app entirely. Gregor announces compulsory overtime and cancelled holidays.*
 
 The next afternoon, Steve returned to the War Room. The walls were covered with flip chart paper and Post-it notes, the table with printouts and coffee cups. A stack of empty pizza boxes sat at the back of the room. If work had an odor, then the room smelled of work.
+
+Steve placed a box of cookies on the table—baked by his mum and the girls the night before—and forced open a couple of windows.
 
 Gregor had a plan. "It's aggressive but, I think, workable."
 
@@ -280,7 +352,9 @@ Steve closed his eyes and took a calming breath. "I'm so sorry, Catherine."
 
 She shrugged. "It's not your fault, Steve. You didn't change the date. Circumstances did."
 
-Circumstances—the ultimate bad guy. 
+Circumstances—the ultimate bad guy.
+
+Catherine sighed. "If FPP were a tricycle, maybe it would have three wheels and handlebars. But no seat. It's going to be an uncomfortable ride, but I can live with it until February."
 
 Gregor cleared his throat. "The new plan came in at six months, including two weeks at the end for launch. I'll announce compulsory paid overtime on Monday and ask everyone to voluntarily cancel any holidays they have planned for the next six months."
 
@@ -289,6 +363,8 @@ Vrinda snapped at him. "They'll hate you for that."
 Gregor snapped back. "You can't make an omelet without breaking a few eggs. You do the analysis; I'll do the managing."
 
 Steve intervened. "Look. If you two kids can't play nicely together then I'll send you to your rooms."
+
+Phil raised his hand. "One more thing. Can we get a proper espresso machine? The tea from the vending machine has stuff floating in it, and the whitener isn't milk. It's a health hazard."
 
 ---
 
@@ -303,7 +379,7 @@ Steve asked him to clear space in the schedule for FPP bug fixing.
 
 Ron pulled out his battered ring-binder, flipped through a few pages, studying them, tutting as he turned. 
 
-Steve worked for Ron years earlier, and he knew that Ron ran his entire team using a simple three-list system. List #1 was a long list of requests not yet started. List #2 held the requests currently being worked on—it was always a thin list (that was one of Ron’s rules). And List #3 was an ever-growing list of finished work.
+Steve worked for Ron years earlier, and he knew that Ron ran his entire team using a simple three-list system. List #1 was a long list of requests not yet started. List #2 held the requests currently being worked on—it was always a thin list (that was one of Ron’s rules). And List #3 was an ever-growing list of finished work. He'd worked this way since Ada Lovelace was a programmer.
 
 He looked up and said he could, reluctantly, bump a bunch of non-urgent work to next year.
 
@@ -311,7 +387,9 @@ Steve said, “Sorry.”
 
 Ron shrugged. "They're my customers. They understand. They'll happily take what they can get, because none of them want to get on my bad side."
 
-Ron was a grumpy old fella, Steve thought, but he was remarkably flexible in a crisis.
+Ron was a grumpy old fella, Steve thought, but he was remarkably flexible in a crisis. All in all, things were back on track.
+
+For now.
 
 ---
 
@@ -362,7 +440,9 @@ She screwed up her nose, as if she smelled something bad but couldn't quite tell
 
 Steve said, "You know this. The scope of the project always expands until it's too big to fit in the time available to deliver it. If we didn't put aggressive deadlines in place, we'd never ship anything."
 
-"I suppose."
+"I suppose." She paused, then added quietly: "But you're still crossing your fingers, right? Gregor just told you February 1st is 'aggressive but achievable.' That's exactly how you described the April date. We should expect *this* one to run late too, right?"
+
+Steve opened his mouth. Then closed it.
 
 They walked the rest of the way in silence. At the building entrance, Steve said, "Look, I know you desperately want FPP to succeed. So do I. So does Gregor. But he has an incredibly difficult job juggling a lot of question marks and balancing a load of conflicting needs. I don't think he's the ogre you think he is."
 
@@ -370,7 +450,7 @@ She shook her head. "I never said he's an ogre. I said he's an arse, and I think
 
 ---
 
-## You Look Like a Dork
+## Quality and Speed 
 
 > [!abstract] Chapter Summary
 > *Steve finally meets Craig Lally for brunch. Craig takes him to meet Cheryl in the cafeteria kitchen, but Steve is distracted, checking his phone. Cheryl notices—"Looks like we've got another skeptic here."*
@@ -379,11 +459,68 @@ A few days later, after another not-so-gentle prompt from Norbert, Steve finally
 
 Craig was late-fifties, tieless, and looked like a man who climbed mountains for pleasure and drove there in a twenty-year-old Volvo he maintained himself. 
 
-After shaking hands, Craig said that Norbert had briefed him on Steve's situation, and he was sure he could help, but before they got down to business, he said he liked to start his chats with a quick behind-the-scenes tour of the staff cafeteria.
+They grabbed brunch from the counter—Steve had fruit, yogurt and a single strip of bacon; Craig had bacon and eggs and green tea—and sat at a table near the back.
+
+After shaking hands, Craig said that Norbert had briefed him on Steve’s situation.
+
+“Norbert tells me you spend about forty percent of every project finding and fixing defects at the end.”
+
+Steve nodded. That sounded about right. “We call it the ‘Testing Phase’, though it is a mix of testing and fixing.”
+
+Craig sipped his green tea. "Have you ever seen pictures of old British car factories? Before the Japanese quality revolution hit?"
+
+"I’ve *driven* one of those cars. As a teenager. Couldn’t have afforded it without my friends helping me fix it every other weekend."
+
+Craig smiled. "Then you’ll know exactly what I mean. The quality wasn’t great. Those factories built cars in two phases. Phase one: build the car. Phase two: find and fix all the defects from phase one. Picture it—serious-looking men in white coats carrying rubber mallets, beating dents out of newly-built cars."
+
+Steve nodded. 
+
+"We call that late-inspection," Craig said. "Build it, then fix it. Now here’s my question: does that remind you of anything?"
+
+Steve put his fork down. It did, obviously, and he felt like he was walking into a trap. "You’re saying we build software the same way."
+
+"Phase one: build it. Phase two: find and fix all the defects. Forty percent of your project, you said. Sometimes more, according to Norbert."
+
+"But that’s how software development works."
+
+"The Western car manufacturers thought exactly the same thing—it was just how cars were made. Then the Japanese showed them a different way: build quality in during phase one, skip almost all of phase two. Much faster. Much cheaper. Much better product. The Western manufacturers resisted at first, but eventually they learned." He paused. "Your industry hasn’t. Not yet."
+
+Steve leaned back in his chair. He wanted to argue, but the car factory image was annoyingly hard to shake. Phase one: build. Phase two: fix. That *was* how they worked. It was how everyone in the software development industry worked.
+
+"But we *have* to test the software, Craig. You can't just skip testing. People's money is at stake."
+
+"Of course you have to test it. The question isn't *whether* you test—it's *when*. You can test as you go, building quality in early, catching problems while they're small and cheap to fix. Or you can do what you do now—save it all up for a big testing phase at the end, then spend months finding and fixing defects." He leaned forward. "Building quality in is a lot more efficient than testing defects out."
+
+Craig grabbed a napkin and sketched a quick grid—two axes, four boxes.
+
+"Right now, you think you’re choosing between these two." He pointed to opposite corners. "High quality but slow. Or fast but shoddy."
+
+|            | **Slow** | **Fast** |
+|------------|:--------:|:--------:|
+| **High Quality** | ✓ What everyone assumes | |
+| **Low Quality** |  | ✓ What Steve chose |
+
+"You’ve already made your choice. You told your team quality was negotiable. Born premature, I believe were your words?"
+
+Steve stiffened. Norbert had been thorough in his briefing.
+
+Craig tapped the empty top-right corner. "What if you didn’t have to choose?"
+
+Steve looked at the empty box. High quality *and* fast. "That’s a nice … theory."
+
+"It’s not a theory. It’s a solved problem. Just not in your industry." Craig folded the napkin and slid it across the table. "Keep that."
+
+Steve pocketed it, more out of politeness than conviction.
+
+"Now," Craig said, standing up. "Let me show you something. A practical example. Right here in the building."
+
+## You Look Like a Dork
+
+Craig led Steve down to the cafeteria kitchen.
 
 "The cafeteria?"
 
-Craig smiled then led Steve down to the kitchen to meet Cheryl, a thin, short, middle-aged woman who'd worked there for twenty-eight years.
+Craig smiled and pushed through the swing door to introduce Steve to Cheryl, a thin, short, middle-aged woman who’d worked there for twenty-eight years.
 
 Cheryl said, "Craig says you've got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?"
 
@@ -403,7 +540,7 @@ Norbert had described the FPP shenanigans as *business as usual*, and in a way i
 
 What was different? Consequences. Hal and Eleanor were taking this one very seriously. And so was Steve.
 
-Steve recalled something he’d read somewhere about how the original meaning of the word Deadline. It came from war time, when prisoners of war were imprisoned in makeshift jails with no fences. Instead the guards made a line with stones or sticks, and told the prisoners that if they stayed inside the line, they’d be okay. If not, they wouldn’t.  The “dead” part of the word “Deadline” was deadly serious.  FPP’s deadline had become a whole lot more serious.
+Steve recalled something he’d read somewhere about the original meaning of the word Deadline. It came from wartime, when prisoners of war were imprisoned in makeshift jails with no fences. Instead the guards made a line with stones or sticks, and told the prisoners that if they stayed inside the line, they’d be okay. If not, they wouldn’t. The “dead” part of the word “Deadline” was deadly serious. FPP’s deadline had become a whole lot more serious.
 
 Steve emerged from his thoughts, looked around him and realised he had no idea what a cafeteria had to do with any of it.
 
@@ -417,7 +554,7 @@ He turned back to find Cheryl watching him, arms folded. Her smile had dropped i
 
 "I'm so sorry," Steve said, waving his hands in the air. "Family emergency. I have to go."
 
-Cheryl made a face, not whether she believed him or not.  
+Cheryl made a face, not sure whether she believed him or not.  
 
 Craig sighed. "Let's talk when you're ready to listen."
 
@@ -430,7 +567,7 @@ Steve left, feeling slightly guilty but mostly relieved. There was no emergency�
 > [!abstract] Chapter Summary
 > *Eleanor delivers Hal's ultimatum: ship on time or find a new job. Then Steve discovers his staff has walked out to the pub. Vrinda negotiates: they'll go back to work, but no compulsory overtime—and they'll slash features further.*
 
-A week later—mid-August now—it got worse.
+A week later—mid-August now—it got worse. Steve should have worn goggles to work that day.
 
 Eleanor appeared at Steve's office door at precisely 2:22 in the afternoon. She glanced at the two exchange staff he was meeting with, forced on a clearly false smile, and politely asked them to leave.
 
@@ -446,17 +583,21 @@ She lowered her voice.
 
 Steve waited.
 
-"I have a message for you from Hal. It's not for anyone else's ears." She fixed him with a look. "Launch FPP on time. Or find a new job."
+"I have a message for you from Hal. It's not for anyone else's ears."
+
+Steve snorted. "So, he's not resigning then?"
+
+Her mouth opened, and she forced it shut. "Launch FPP on time. Or find a new job."
 
 She opened the door and stomped out, slamming it hard enough to rattle the glass wall.
 
 Steve sat for a moment, stunned. Then he made his way out to the FPP work area. Eleanor was right—the lights were on, but no one (apart from the two contractors) was home. He tracked his team down in *The Burns Unit*—officially *The Robbie Burns*, named after Scotland's great poet, but nicknamed after the hospital next door.
 
-Steve found about forty of his people sitting in the far corner. ABBA's "Dancing Queen" played over the sound system. Most looked like they were drinking freshly-squeezed lemon juice. Phil and Vrinda were there. So was Declan McGuiness, the employee rep.
+Steve found about forty of his people sitting in the far corner. ABBA's "Dancing Queen" played over the sound system. Most looked like they were drinking freshly-squeezed lemon juice. Phil and Vrinda were there. So was Declan McGuiness.
 
-Steve went to his two old friends, Vrinda and Phil, standing by the dart board. It had three darts sticking out of the bullseye at unnatural angles, like someone had pushed them there rather than thrown them.
+Steve went to his two old friends, Vrinda and Phil, standing by the dart board. It had three darts sticking out of the bullseye at unnatural angles, like someone had pushed them there rather than thrown them. Phil glanced at his pint glass, then at Steve. With the subtlest of eyebrow movements, he asked silently if Steve wanted one. With a barely perceptible shake of his head, Steve declined with regret.
 
-"Um," he said. “What’s going on?”
+“Um,” he said. “What’s going on?”
 
 Vrinda spoke quietly, which meant she was angry. "This morning, just before lunch, Gregor cancelled everyone's holidays—holidays we'd already rescheduled to suit the project's previous schedule. Then he told a few of us to pull up our socks and work more overtime. I already take work home. I have children. He can shove it."
 
@@ -469,6 +610,10 @@ They said nothing. They all knew Gregor was their bad guy. But didn't they reali
 Phil pulled the darts from the board and stepped back to take aim. Vrinda and Steve quickly moved out of his way.
 
 "It's the same pattern in every project," Phil said. "A desperate mad dash at the end that we—and our families—bear the brunt of." He threw his first dart; it hit the board, bounced off, and landed on the floor. As he crouched to pick it up, he said, "The bottom line is that none of us believe we'll make February 1st. And none of us believed we'd make the original date either."
+
+"It *is* important, Phil."
+
+"I didn't say it wasn't important, Steve. I said it was futile. Two different concepts. I'll buy you a dictionary for your birthday and you can look them up."
 
 Steve took a gamble. He gestured to an empty booth and asked them to sit down. Phil walked up to the dart board and jabbed his remaining dart firmly in the bullseye, then slid in after Vrinda.
 
@@ -505,9 +650,13 @@ Steve liked that about him.
 
 Outside in the sunlight, Steve spied Declan, the employee rep, sucking on an orange plastic cigar—a nicotine replacement device, apparently designed for extroverts.
 
-Declan was on his own, hanging around, clearly waiting for Steve.
+Declan was the department's unpaid employee rep. The position was meant to be essentially toothless, but Declan hadn't realised that. He was on his own, hanging around, clearly waiting for Steve.
 
-"Did you hear the news?" he said.
+He looked Steve up and down. "You look terribly tired, Steve."
+
+Steve shrugged. He felt terribly tired. Too tired to talk about it.
+
+"Did you hear the news?" Declan said.
 
 “What news?”
 
@@ -534,6 +683,13 @@ Steve decided, there and then, to go upstairs and explain to Hal precisely what 
 ---
 
 # Part Two: Learning the Tools
+
+> [!info] The Story So Far
+> *Pauline's betrayal set off a chain reaction. First, Steve's team scrambled to match Chaste's April 1st launch. Then CEO Halifax Gibbet promised to beat them—pulling the deadline forward to February 1st. Then Chaste moved their own date to February. And Hal, never one to back down, issued a press release announcing December 1st.*
+>
+> *Steve has pulled every lever he knows: slashed features, cancelled the web app, pushed overtime, cut quality standards. His team mutinied. His staff don't believe the date is achievable. His boss has threatened his job. And the one person who might have been able to help—Craig Lally, the quality guy from upstairs—Steve walked out on.*
+>
+> *He's out of moves.*
 
 ## Fowl Mood
 
@@ -851,33 +1007,20 @@ Steve nodded slowly. "I suppose they are."
 
 It only took Steve a moment. "Change requests. Underproduction happens when we don't build something our customer actually wants. Because we didn't forecast it. So they ask us to change it, or add it—and we reject most of those requests because they're too expensive and too late."
 
-Craig grabbed a napkin and sketched a simple grid—two axes, four boxes.
-
-"Everyone thinks they're choosing between these two," he said, pointing to the top-left and bottom-right corners.
+Craig pulled out a napkin and sketched that grid again—the one Steve had barely glanced at weeks ago, the first time they'd met. Quality versus speed. Four boxes. The empty top-right corner.
 
 |            | **Slow** | **Fast** |
 |------------|:--------:|:--------:|
-| **High Quality** | ✓ Traditional | |
-| **Low Quality** | | ✓ Crisis Mode |
+| **High Quality** | ✓ What everyone assumes | **?** |
+| **Low Quality** |  | ✓ What Steve chose |
 
-"High quality but slow. Or fast but shoddy. That's the trade-off everyone believes in. That's the assumption driving your December 1st panic."
+"Remember this? You chose the bottom-right corner. Fast but shoddy. You told your team quality was negotiable."
 
-Steve nodded. That was exactly what he'd told his team: quality is negotiable, this baby will be born premature.
-
-Craig tapped the empty top-right corner. "But what if you could hit this one instead?"
-
-|            | **Slow** | **Fast** |
-|------------|:--------:|:--------:|
-| **High Quality** | Traditional | **???** |
-| **Low Quality** | | Crisis Mode |
-
-"High quality *and* fast?"
+Steve nodded. He remembered.
 
 "Quality, done right, doesn't slow you down. It speeds you up. All that rework you do at the end of every project? That's the cost of building quality in *late*. Build it in early, in small batches, and you go faster."
 
-Steve stared at the napkin. It was such a simple diagram. And yet everything he'd been taught about software development said the top-right corner was impossible.
-
-He thought of the dart board in the pub that afternoon. Three darts in the bullseye, each at an unnatural angle—pushed there rather than thrown. That's what the top-right corner felt like. A bullseye you couldn't actually hit. You could cheat your way there, or pretend you'd hit it, but you couldn't really throw the dart and land it cleanly.
+This time, Steve actually listened. He thought of the dart board in the pub. Three darts in the bullseye, each at an unnatural angle—pushed there rather than thrown. That's what the top-right corner felt like. A bullseye you couldn't actually hit. You could cheat your way there, or pretend you'd hit it, but you couldn't really throw the dart and land it cleanly.
 
 Could you?
 
@@ -1939,220 +2082,4 @@ That was the best thing anyone could ever say to him.
 
 **THE END**
 
----
-
-# Steve's Lightbulb Moments
-
-## The Problem
-
-Steve's team faces an impossible deadline: deliver FPP by December 1st—months earlier than anyone thought possible. The traditional playbook says you have three levers: cut scope, add overtime, or sacrifice quality. They've already pulled all three, and it's still not enough.
-
-The real problem isn't the deadline. It's the *way* they've been working: big batches of work, built in isolation, tested at the end, with fingers crossed that it all comes together. It never does—and by the time they find out, it's too late to fix.
-
-Steve needs a different approach. One that lets them go *faster* without sacrificing quality. One that puts them in control instead of constantly reacting to surprises.
-
-Here's the system that gets him there.
-
----
-
-## Cluster 1: The Mindset Shift
-
-*We can't predict the future—so we need a system that handles uncertainty without sacrificing quality.*
-
-### 💡 Requirements Are Really Forecasts
-*They're predictions, not facts.*
-
-If requirements were truly *required*, how could Catherine descope them twice? The 312-page requirements document wasn't a list of mandates—it was a forecast. And forecasts, by definition, are sometimes wrong.
-
-**The lesson:** Stop blaming yourself when requirements change. Change the way you work so it matters less when they do.
-
-*First appears in: [[#Requirements Are Really Forecasts]]*
-
----
-
-### 💡 Packing Peanuts
-*Customers hoard features because they don't trust there will be a phase two.*
-
-Steve's daughter hoards roasted potatoes because she worries there won't be enough. Customers do the same with requirements—they pad their lists with features they don't really need, protecting the ones they do want. Craig calls these "packing peanuts": foam filler to protect what matters.
-
-**The lesson:** Customers hoard because they've been burned. Give them a guaranteed phase two and they'll stop padding their requirements.
-
-*First appears in: [[#Requirements Are Really Forecasts]]*
-
----
-
-### 💡 The 2x2 Grid (The Top-Right Corner)
-*You don't have to choose between quality and speed.*
-
-Everyone assumes you're choosing between high-quality-but-slow or fast-but-shoddy. But there's a top-right corner: high quality *and* fast. Quality, done right, doesn't slow you down—it speeds you up. All that rework at the end? That's the cost of building quality in *late*.
-
-**The lesson:** Build quality in early, in small batches, and you go faster.
-
-*First appears in: [[#Requirements Are Really Forecasts]]*
-
----
-
-## Cluster 2: The Structural Solution
-
-*Because requirements are just forecasts, we need a way to organize work that handles change gracefully. The answer: break work into small, shippable chunks—most important first—and let the customer reprioritize as they learn.*
-
-### 💡 The French Fry Revelation
-*Cook small batches. Replenish on demand.*
-
-Cheryl's team never runs out of chips, yet rarely throws any away. The secret: cook small batches based on what's actually selling, not what you *predicted* would sell. When demand spikes, cook bigger batches. When it slows, cook smaller ones.
-
-**The lesson:** Don't build everything upfront based on forecasts. Deliver in small chunks and adapt as you learn.
-
-*First appears in: [[#The French Fry Revelation]]*
-
----
-
-### 💡 Small Batches
-*Small projects delivering the most important features first.*
-
-Standing at the kitchen sink, Steve figures it out: a small batch is simply a small project that delivers a small selection of the *most important* features. Disappointingly dull—no thunderclaps or Eureka moments—but right.
-
-**The lesson:** Break big projects into small ones. Each one complete. Each one shippable.
-
-*First appears in: [[#Small Batches Click]]*
-
----
-
-### 💡 The Inverted Pyramid
-*Structure work so every slice is good enough to ship.*
-
-Nineteenth-century journalists invented a new way of writing for the unreliable telegraph: put the most important paragraph first, then the next most important, and so on. Even if transmission was cut off halfway, the editor still had a useful article.
-
-Steve inverts FPP the same way: deliver the most valuable chunk first, fully tested, good enough to ship. Then the next chunk. Then the next. If December 1st arrives mid-transmission, they still have a working product.
-
-**The lesson:** Don't save the punchline for last. Deliver value early and keep adding to it.
-
-*First appears in: [[#Younger Men, With Stamina]]*
-
----
-
-### 💡 The Customer Holds the Pen
-*Reprioritization isn't a change request—it's how the system works.*
-
-Catherine realizes she no longer has to *beg* for changes. She simply reprioritizes the list. "I'm not requesting a change, Steve. I am simply reprioritizing our list." The customer stays in control because the system is designed for adaptation.
-
-**The lesson:** When you work in small batches, change becomes cheap. Give the customer the pen.
-
-*First appears in: [[#I'm Not Begging for a Change]]*
-
----
-
-### 💡 Manage the Bottleneck
-*The project moves at the speed of its slowest part.*
-
-Phil and Steve figure out that testing is about to become FPP's bottleneck. Every new chunk requires more regression testing, and the testers can't keep up. The solution? Developers stop building ahead and instead help make testers more productive—automating tedious tasks, eliminating unnecessary meetings, changing the build schedule to minimize *tester* downtime.
-
-**The lesson:** Find your bottleneck and protect it. Don't let non-bottlenecks build up piles of half-done work that the bottleneck can't process.
-
-*First appears in: [[#The Bottleneck]]*
-
----
-
-## Cluster 3: The Quality Standard
-
-*The structure only works if every slice is solid. You can't ship the tip of the pyramid if it's broken.*
-
-### 💡 Good Enough To Ship (GETS)
-*The quality standard that makes everything else work.*
-
-When Steve introduces the inverted pyramid, he keeps asking one question: "That would be good enough to ship, right?" Not perfect. Not gold-plated. But *shippable*—tested, reworked, and ready for real customers.
-
-GETS is the foundation. Without it, small batches are just small batches of rubbish. With it, every chunk of work is a complete, valuable product. Ron's independent review makes the same point: "In order for incremental development to work, each increment must be good enough to ship."
-
-**The lesson:** Define "done" as "ready for customers"—not "ready for testing" or "ready for review." If you wouldn't ship it, it's not done.
-
-*First appears in: [[#We Cannot Deliver on December 1st]]*
-
----
-
-### 💡 The Dog Food Problem
-*Eat what you serve.*
-
-Cheryl's cafeteria was about to be outsourced because the food was terrible. The fix? Craig made them eat their own cooking. Once they tasted what they were serving, they started caring about it—and quality transformed within two weeks.
-
-**The lesson:** Test your own product. Don't wait for customers to tell you it's broken.
-
-*First appears in: [[#The Dog Food Problem]]*
-
----
-
-### 💡 The Three Amigos
-*Taste the recipe before you cook the meal.*
-
-Kryz, Brian, and Sharon—analyst, developer, tester—discover that sitting together lets them find bugs *before* testing. They talk through how they expect the software to behave. When they disagree, it means the requirements were ambiguous—and Brian probably built something different than Kryz intended. They catch defects in the *spec* rather than in the *code*.
-
-**The lesson:** Analyst, developer, and tester must talk *before* work begins. Many bugs are just misunderstandings waiting to be discovered.
-
-*First appears in: [[#Finding Bugs Without Testing]]*
-
----
-
-## Cluster 4: The Deployment & Payoff
-
-*This is what happens when you get it right.*
-
-### 💡 Calibrating Confidence
-*A simple test to find out if you really believe it.*
-
-Eleanor asks Steve: would you bet £100 on making December 1st? £1,000? £10,000? His answers reveal his true confidence level—not the optimism he performs in meetings, but what he'd stake real money on.
-
-**The lesson:** When someone claims they're confident, ask them to bet on it. The answer tells you more than any status report.
-
-*First appears in: [[#Calibrating Confidence]]*
-
----
-
-### 💡 Walk Before You Run
-*Start small. Learn. Then scale.*
-
-Catherine's rollout plan: start with local branches, learn to walk before you run. Use the early rollout to test with real staff and real customers. When you find something you don't like, fix it—while the IT "pit crew" is still standing by and only a few branches are live.
-
-**The lesson:** Don't go big-bang. Roll out incrementally so you can learn and adapt.
-
-*First appears in: [[#Walk Before You Run]]*
-
----
-
-### 💡 It Ain't Over Till the Cash Register Rings
-*Shipping early isn't just about making the deadline—it's about making money.*
-
-Eleanor does the math: eight months of unexpected sales, at half a million per month. Four million pounds in revenue that wouldn't have existed otherwise. The value isn't in *finishing* the project—it's in *selling* the product.
-
-**The lesson:** Speed to market isn't a vanity metric. It's money in the bank.
-
-*First appears in: [[#Four Million Pounds]]*
-
----
-
-### 💡 You Don't Have to Choose
-*The top-right corner applies to life, too.*
-
-Steve thinks he has to choose between the dream job (with travel) and his family. Then he remembers Craig's 2x2 grid. What if he could have both? He negotiates: stay in Watt's Bridge, make FPP a success, then have *them* fly to *him*.
-
-**The lesson:** When someone presents you with two bad options, look for the third.
-
-*First appears in: [[#The Top-Right Corner]]*
-
----
-
-## How They Stack Together
-
-The lightbulbs aren't random insights—they're a system.
-
-**The Mindset Shift** comes first: accept that you can't predict perfectly, but you *can* have both quality and speed. The top-right corner exists.
-
-**The Structural Solution** shows you how: break work into small batches, structure them as an inverted pyramid (most important first), give the customer the pen to reprioritize as they learn, and manage your bottleneck so work flows smoothly.
-
-**The Quality Standard** makes it all work: every slice must be Good Enough To Ship. Eat your own dog food to make sure it is—and have your Three Amigos taste the recipe before you even start cooking.
-
-**The Deployment & Payoff** is what happens when you get it right: you walk before you run, you ship early, and the cash registers start ringing. Four million pounds of cash registers.
-
-And the final lightbulb—**You Don't Have to Choose**—brings it full circle. The mindset Steve learned at work applies to his whole life. When someone presents you with two bad options, look for the third.
-
-It ain't over till the cash register rings. And when it does? Fran would be proud.
 
