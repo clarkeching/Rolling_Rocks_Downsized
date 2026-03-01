@@ -37,8 +37,67 @@
 1. `9b70b3a` — All working files (Ch1 rewrite, editorial feedback, Craig draft, lightbulb moments, etc.)
 2. `bc6e0a7` — Main draft updated with three new Craig chapters + Part Two callback fixed
 
-### Still open
+### Still open (from morning session)
 - Mermaid diagram for the cloud is placeholder — Clarke will have a proper image for publication
 - CorkScrew Solutions footnote to add later
 - Editorial feedback's 8 expansion priorities still to work through (Egyptian Revelation scene is #1)
 - "Darth" could become a recurring callback throughout the book — not yet added
+
+---
+
+### Part 2a bone audit
+- Compared condensed Part Two (chapters Fowl Mood → It Worked) against original chapters 22-34
+- **Verdict: bones are strong.** Logic chain complete. Nothing critical missing. Nothing unnecessary.
+- Three things thinner than original but fine to leave thin:
+  1. Vicious circle of hoarding (nice but not load-bearing)
+  2. "In-process inspection isn't enough" bridge (covered by "but that was only the first step")
+  3. Steve's homework cloud diagrams (correctly cut — Darth does the same job)
+
+### Part 2a flavour/character audit
+- Compared all original chapters 22-34 for joy, humour, character, visual texture
+- Condensed version already surprisingly rich — most key flavour moments survived condensing
+- Gaps identified in three areas:
+  1. **Craig relationship** — functional but not warm enough
+  2. **"Requirements Are Really Forecasts"** — emotionally flat after "face felt hot"
+  3. **Steve's private vulnerability** — desperation visible but inner fidgeting missing
+- Created `Part Two Editorial Brief.md` with prioritized recommendations (Tier 1/2/3)
+
+### Part 2a rework — editorial changes applied
+- Created `Part Two - Working Draft.md` with all changes applied
+- **Two structural fixes:**
+  1. Requirements chapter: added resistance throughout (air quotes, fighting his voice, banging fist, sulking, "playing word games," "an estimate/same thing," "rightish" via defiant smile, jaw drop + "Few do")
+  2. Kitchen Sink chapter: expanded from 22 to ~35 lines — Star Trek fridge, worn-out mute button, scrubbing brush, radio, "Craig had rewired his eyes"
+- **Tier 1 additions (all 7):**
+  1. Craig's wedding detail + mother-in-law murder joke
+  2. Catherine's evening quip ("good-looking single woman")
+  3. "Ick" after porridge pot
+  4. Grandmother's cabbage (Steve-Cheryl connection)
+  5. Steve fighting his voice (Requirements chapter)
+  6. Phil's fired rumour + "Not yet"
+  7. "Making this up as we went along"
+- **Tier 2 additions (all 8):**
+  8. Craig's air quotes on "required"
+  9. "An estimate" / "Same thing"
+  10. Phil as "my plant"
+  11. Star Trek fridge (Kitchen Sink)
+  12. Cheryl slaps Steve's arm
+  13. Steve sulking
+  14. "Little problems" / "desperate is accurate"
+  15. "I nodded in what I hoped was a thoughtful manner"
+- **Tier 3 additions (4 of 5):**
+  16. "Congratulations. We should get started then."
+  17. Printer email from Hal's PA
+  18. Worn-out mute button
+  19. *Thunk* of FPP folder + Craig "Excellent!" boom
+  - (Camilla the phone not added — needs more thought on how Fran fits Part Two)
+- **Other fixes:**
+  - Craig "more distracted than surprised" (character detail)
+  - Steve "had no intention of sticking to ten minutes" (cunning)
+  - Gregor "looked miserable" (emotional detail)
+  - Steve "feigned surprise" (strategic reveal)
+  - Physical transition into Dog Food chapter (folder thunk, Craig leading)
+  - Cheryl's laugh at grandmother's cabbage (warmth)
+
+### Commits
+3. `4c16701` — Session Log + Part Two Editorial Brief
+4. Next: Part Two Working Draft
