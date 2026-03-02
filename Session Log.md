@@ -100,4 +100,36 @@
 
 ### Commits
 3. `4c16701` — Session Log + Part Two Editorial Brief
-4. Next: Part Two Working Draft
+4. `102a519` — Part Two Working Draft with all editorial changes
+
+### Parts 1-3 Combined file
+- Created `Parts 1-3 Combined.md` for fresh-eyes review in another chat
+- Contains Part One (from main manuscript) + Part Two + Part Three/Midpoint (from working draft)
+
+### Fresh-eyes feedback (from another Claude session)
+- **Positives:** Opening strong, Steve feels real, pacing through Part One genuinely good, Craig's napkin scene best teaching moment, inverted pyramid reveal lands, reads like a real novel not a business book
+- **Issues identified:**
+  1. French Fry Revelation over-explained (told three times) — **FIXED**: cut Steve's restatement and "may contain nuts" joke
+  2. "May contain nuts" joke undercuts the scene — **FIXED**: cut
+  3. Catherine needs earlier moment showing commercial instincts — **FIXED**: added 6-line beat after Sticky-Note Triage where she shows she already knows which features sell the product
+  4. Requirements chapter still feels Socratic despite resistance we added — noted, may need further work
+  5. Phil as a plant feels convenient — kept (acknowledged in text, and it works because Steve is desperate)
+  6. Team conclusions too neat — noted but acceptable for condensed version
+- **Pushed back on:** Steve walking out on Cheryl (setup, not stall), Phil as plant, team neatness
+- Changes applied to: working draft, main manuscript, AND combined file
+
+### Additional uncommitted edits (not logged by previous session)
+These changes were found in the working tree but not recorded in the Session Log:
+1. **Norbert's threat via Craig** — new beat at start of Dog Food chapter: Craig delivers Norbert's message ("If you walk out on me this time, call him. He said he'll fly here and take over your job himself"). Steve flinches.
+2. **Steve's Norbert callback** — "He tried to help. Drew some diagrams, took me to the cafeteria to show me something. But I walked out. I wanted practical answers, not napkins." (replaces vague old line, ties to walking-out setup)
+3. **Cheryl's soup speech tightened** — compressed from ~12 lines of back-and-forth to 4 punchy lines. Cuts repeated explanation.
+4. **"Reverse Psychology, Steve"** — new Craig line after "Why not?" in the cafeteria
+5. **Cheryl second meeting reworked** — "Craig took Steve back into the cafeteria kitchen to meet Cheryl, for the second time." + Craig says "I need help" instead of Steve apologising (stronger, less repetitive)
+6. **"Better food brought us more customers"** — bridge line added to connect Dog Food to French Fry Revelation
+7. **Craig phone callback** — split "Craig told Steve to hold" into a hang-up and call-back (more natural)
+8. **"ended abruptly"** — minor wording fix in Steve's apology to Craig
+
+### Status
+- All above changes are UNCOMMITTED against commit `102a519`
+- Changes affect: `Rolling Rocks Downhill - Condensed!.md`, `Part Two - Working Draft.md`, `Session Log.md`
+- Obsidian settings files also changed (not content-relevant)

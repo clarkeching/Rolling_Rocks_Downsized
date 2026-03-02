@@ -73,7 +73,7 @@ He said nothing.
 
 "Tell me how that went."
 
-Steve chose his words carefully. "He couldn't help me with FPP. That was, and still is, my priority. He wanted to help me prevent my next FPP."
+Steve chose his words carefully. "He tried to help. Drew some diagrams, took me to the cafeteria to show me something. But I walked out. I wanted practical answers, not napkins."
 
 Norbert said, "He called me after your chat. He said he couldn't help everyone, and that was especially true if they didn't want help. He said that if you ever did decide you wanted help, all you had to do was ask."
 
@@ -145,7 +145,11 @@ Craig told Steve to hold. Steve heard muffled conversation in the background. A 
 
 Steve dropped the FPP folder on the cafeteria table with a *thunk*. Craig ignored it.
 
-"Do not think about small batches. Okay?"
+"Before we start—Norbert confirmed your job is at risk. He asked me to pass on a message." Craig placed his phone on the table. "If you walk out on me this time, call him. He said he'll fly here and take over your job himself."
+
+Steve flinched. "He couldn't do my job."
+
+Craig shrugged, having delivered the message, and moved on. "Do not think about small batches. Okay?"
 
 "Small what?"
 
@@ -190,19 +194,11 @@ She led them through to her little office where the three of them sat.
 
 Steve nodded. She was clearly proud of the achievement.
 
-"Here's the thing though. Soup is cheap, easy to cook and hard to screw up. If the stock and the other ingredients are good, then the soup's good. But, crazy as this sounds, our soup often tasted horrible. You want to know why?"
+"Here's the thing though. Soup is cheap and hard to screw up. But our soup often tasted horrible. You want to know why? No one ever tasted it before serving it. We followed recipes from Head Office to the letter, but we never checked if the food was actually any good."
 
-"Of course."
+"Why not?"
 
-"No one ever tasted it before serving it."
-
-"Pardon?"
-
-"No one ever tasted it before serving it. We cooked food from scratch, following supposedly 'foolproof' recipes from Head Office. We followed the recipes to the letter, but no one tested them to see how they tasted."
-
-Steve was stunned.
-
-"Well, I'm embarrassed to admit it now, but—frankly—we didn't care. None of us ate the food we sold and none of us particularly cared about the food we sold. We worked our hours, what more could you ask from us?"
+"Frankly, we didn't care. None of us ate the food we sold. We worked our hours, what more could you ask from us?"
 
 "What changed?"
 
@@ -212,7 +208,7 @@ Cheryl reached across and slapped Steve on the arm. "And that didn't just make u
 
 That was the Dog Food Problem—eat what you serve. Taste the software.
 
-"But that was only the first step," Cheryl said.
+"But that was only the first step," Cheryl said. "Better food brought us more customers. And more customers brought us a whole new problem."
 
 ---
 
@@ -261,23 +257,19 @@ Strange. That was the second time someone had offered him a cigar that day.
 
 "The first day was nuts," Cheryl said. "The second day was a little less nuts. And things just kept getting less nuts every day."
 
-Steve said, "Is that why you have a sign out front that says some food may contain nuts?"
-
-She ignored him.
-
 By the end of the first month, they were serving thirty percent more customers, revenue was up by forty percent, and since most of their costs were fixed, they were suddenly turning a healthy profit.
 
 They got to keep their jobs.
-
-Steve said, "So cooking small batches not only improved your product quality, it also solved your forecasting problem. Rather than cooking in big batches way in advance, you cook smaller batches, which lets you adapt according to what people are buying."
-
-"Exactly!" said Cheryl.
 
 It all made perfect sense. To them. But Steve had no idea how it applied to his situation. He didn't know what small batches meant in a software context. And he suspected neither did Craig. He may hope the principles Cheryl's team used also applied to software development, but Steve was certainly a guinea pig.
 
 For the next few hours, he decided he would cross his fingers and hope Craig was right. He had nothing left to lose.
 
 Craig thanked Cheryl and they made their way back to their seats out front.
+
+"There's one more thing Cheryl's team did that she forgot to mention," Craig said as they sat down. "They thinned their menu. Removed all but the most popular dishes. It gave them the wiggle room to learn the new way of working, then they gradually added dishes back."
+
+It would be some time before Steve realized how important that step—thinning the menu—would be.
 
 ---
 
@@ -342,11 +334,7 @@ Steve's jaw fell open. "Oh, yes. Smaller batches."
 
 Steve sulked for a moment, feeling sorry for himself, then carried on. "Hoarding is one cause of overproduction. Another is that customers know they'll be asked to chop features later, so they add stuff they don't really want in order to protect the features they *do* want."
 
-"Packing peanuts," Craig said.
-
-"Pardon?"
-
-"They're like those foam peanuts businesses fill packages with so the goods they're shipping don't move around in transit."
+"Packing peanuts," Craig said. "Foam stuffing to protect what's actually valuable in the box."
 
 Steve nodded slowly. "I suppose they are."
 
@@ -483,7 +471,9 @@ FPP was in a state of emergency—his equivalent of a heart attack survivor—an
 > [!abstract] Chapter Summary
 > *Steve calls Catherine and realizes she could have told them the minimum viable product from day one. He thinks about Ron's three-list system, then hunts for a book in his attic—and discovers the inverted pyramid.*
 
-That evening, Steve called Catherine—his customer rep, the one with the wild red hair who'd taken Pauline's betrayal so personally. He needed to understand something.
+That evening, Steve grabbed his phone from his jacket. Fran used to call it Camilla because, she said, sometimes it was like there were three of us in our relationship. He still smiled every time he picked it up.
+
+He called Catherine—his customer rep, the one with the wild red hair who'd taken Pauline's betrayal so personally. He needed to understand something.
 
 "What else would I, a good-looking single woman in the prime of my life, be doing in the evening?" she said. "Having a social life? Ask away."
 
@@ -493,21 +483,19 @@ She didn't even pause. "Of course."
 
 "Can you roll forward to December, after FPP is live? Can you tell me what we should be working on next?"
 
-"Sure. My team's put together a spreadsheet of post-implementation work." She rattled off half a dozen features. "I can tell you exactly what they are if you give me a minute."
+"Sure. My team's put together a spreadsheet of post-implementation work." She rattled off features without pausing for breath: online applications, automated statements, the comparison tool, direct debit setup, the web app they'd descoped. "I can tell you exactly what they are if you give me a minute."
 
-While Catherine pulled up the spreadsheet, Steve thought about how he explained complicated slideshows—revealing concepts bit by bit, building ideas over time, taking care not to overwhelm his audience.
+While Catherine pulled up the spreadsheet, Steve wandered into the lounge, phone tucked against his shoulder.
 
-And then he thought about Ron McKnight.
+Bit by bit. That's how he built complicated slideshows—revealing concepts piece by piece, taking care not to overwhelm his audience. That's how Ron McKnight's team worked too, shipping small changes one at a time, keeping work-in-progress short. Small batches by another name.
 
-Ron's support and maintenance team built up their software the same way: they started with an existing system and added to it bit by bit, one change request at a time. That's why Ron had been so flexible when Steve asked him to clear space for FPP. Ron kept his List #2—the work currently in progress—nice and short. He never made commitments about List #1 until he reasonably could. His customers knew that and accepted it.
-
-Limiting the number of requests on List #2 limited his work in process. Which was very much like working in small batches.
+And then, oddly, he thought of Luca—bumping the cab drivers' breakfasts so Phil and Steve could eat first. No big system. Just a man reading the room and responding to whoever needed it most.
 
 Catherine continued talking through her prioritized features, and Steve listened as she described how the system would grow, feature upon feature upon feature.
 
 And then the most important piece of the puzzle revealed itself.
 
-A newspaper sat folded on the couch across the room, front page headline visible above the fold. Something about factory closures. Steve didn't need to read the article to know what it said—that was the clever thing about how reporters wrote. They put the most important stuff at the top, then the next most important, then the next. It gave them and their editors huge flexibility.
+A newspaper sat folded on the couch, front page headline visible above the fold. Something about factory closures. Steve didn't need to read the article to know what it said—that was the clever thing about how reporters wrote. They put the most important stuff at the top, then the next most important, then the next. It gave them and their editors huge flexibility.
 
 He thanked Catherine and hung up. Then he went to his bookcase, looking for a book about marketing he'd read years ago. It had a story in it about the telegraph system.
 
@@ -572,6 +560,8 @@ He nodded and carefully pulled the ladder down to its full height. It clicked in
 "But with FPP, it's a big project, right? It's not made up of loads of little requests. At least, that's what we thought. We thought we couldn't do what Ron does. That's what we thought. But we can. At least I think we can."
 
 "I haven't got a clue what you're talking about. Just don't wake the kids. They'll be grumpy in the morning."
+
+Sometimes Steve worried that his mother didn't understand him. Perhaps it was a generational thing. Perhaps it was because he was speaking gibberish.
 
 Steve climbed into the attic, turned on the light, picked his way through old PCs and vacuum-packed baby clothes until he found the boxes of old books. He rooted around until he found what he was looking for.
 
@@ -692,6 +682,8 @@ Steve nodded. "Agreed. We start the testing phase today, with those features as 
 "Imagine you're a reporter in the Wild West and you've got a hot news story to send to your editor in New York. Before the telegraph, you'd write your story and send it by stagecoach—introduction, middle, conclusion. *It was a sunny morning as the president ate breakfast. He went about his day, ending up at a theater where he was shot. He was rushed to a doctor, and then he died.*
 
 "But then the telegraph arrived. Reporters could transmit in hours rather than weeks. The problem was, the telegraph was unreliable. A twenty-word telegram made it through fine, but three hundred-word articles often got cut off mid-transmission."
+
+He paused and chuckled, genius-like. No one laughed back.
 
 "If the conclusion—that the president died—is missing, the story loses its point," Catherine said. "The story is only useful if transmitted in its entirety."
 

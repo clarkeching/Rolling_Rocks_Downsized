@@ -366,6 +366,12 @@ Steve intervened. "Look. If you two kids can't play nicely together then I'll se
 
 Phil raised his hand. "One more thing. Can we get a proper espresso machine? The tea from the vending machine has stuff floating in it, and the whitener isn't milk. It's a health hazard."
 
+As the room cleared out, Catherine caught Steve at the door. "For what it's worth, the six features we kept are the ones that actually sell the product. Everything else just made the spec sheet look impressive."
+
+She said it so matter-of-factly that Steve blinked. "You're not upset?"
+
+"I'm furious. But I'm not stupid. Get me those six features working properly, and I'll figure out how to sell them."
+
 ---
 
 ## Ron's Three Lists
@@ -849,7 +855,7 @@ He said nothing.
 
 "Tell me how that went."
 
-Steve chose his words carefully. "He couldn't help me with FPP. That was, and still is, my priority. He wanted to help me prevent my next FPP."
+Steve chose his words carefully. "He tried to help. Drew some diagrams, took me to the cafeteria to show me something. But I walked out. I wanted practical answers, not napkins."
 
 Norbert said, "He called me after your chat. He said he couldn't help everyone, and that was especially true if they didn't want help. He said that if you ever did decide you wanted help, all you had to do was ask."
 
@@ -878,7 +884,7 @@ Five painfully long minutes later, Steve forced a smile on his face and dialled 
 
 Craig answered, then paused. "I didn't expect to hear from you again."
 
-Steve apologized for how their earlier meeting had ended, then asked if Craig could spare him thirty minutes.
+Steve apologized for how their earlier meeting had ended abruptly, then asked if Craig could spare him thirty minutes.
 
 "Thirty minutes? I don't have thirty minutes to spare."
 
@@ -900,9 +906,9 @@ Steve spent the first eight of his ten minutes explaining why he was desperate. 
 
 Steve didn't laugh. It was *his* neck Craig was talking about.
 
-Craig told Steve to hold. Steve heard muffled conversation in the background. A few minutes later, Craig called back.
+Craig told Steve he’d call him back. 
 
-"I've just spoken with Norbert. I've cleared my diary for the afternoon. I'll meet you downstairs, in the cafeteria, in twenty minutes. Bring your FPP folder with you."
+A few minutes later, Steve’s phone rang. Craig said, "I've just spoken with Norbert. I've cleared my diary for the afternoon. I'll meet you downstairs, in the cafeteria, in twenty minutes. Bring your FPP folder with you."
 
 ---
 
@@ -927,8 +933,9 @@ Craig nodded towards the kitchen. “If the kitchen were baking buns for Frankfu
 
 Steve felt none the wiser, though he did always look forward to Frankfurter Fridays.
 
-He said, “Okay.”
+“Okay,” he said, then, “Why not?”
 
+“Reverse Psychology, Steve.”
 
 ---
 
@@ -937,13 +944,11 @@ He said, “Okay.”
 > [!abstract] Chapter Summary
 > *Cheryl explains how the cafeteria was about to be outsourced—the food was barely fit for a dog. Craig forced them to eat their own cooking, and within two weeks they'd transformed the quality.*
 
-Craig took Steve back into the cafeteria kitchen to meet Cheryl—the thin, short, middle-aged woman who'd worked there for twenty-eight years.
+Craig took Steve back into the cafeteria kitchen to meet Cheryl, for the second time.
 
 Cheryl's eyes narrowed when she saw Steve. "You again?"
 
-He'd walked out on her the week before, checking his phone while she was trying to help him. This time, he apologized. Properly.
-
-"I'm sorry how our last meeting ended."
+Craig said, “I need help.”
 
 She pursed her lips, studying his face. She must have decided he meant it. "You want to hear about our French Fry Revelation?"
 
