@@ -871,7 +871,7 @@ Steve decided, there and then, to go upstairs and explain to Hal precisely what 
 > [!info] The Story So Far
 > *Pauline's betrayal set off a chain reaction. First, Steve's team scrambled to match Chaste's April 1st launch. Then CEO Halifax Gibbet promised to beat them—pulling the deadline forward to February 1st. Then Chaste moved their own date to February. And Hal, never one to back down, issued a press release announcing December 1st.*
 >
-> *Steve has pulled every lever he knows: slashed features, cancelled the web app, pushed overtime, cut quality standards. His team mutinied. His staff don't believe the date is achievable. His boss has threatened his job. And the one person who might have been able to help—Craig Lally, the quality guy from upstairs—Steve walked out on.*
+> *Steve has pulled every lever he knows: slashed features, cancelled the web app, pushed overtime, cut quality standards. His team mutinied. His staff don't believe the date is achievable. His boss has threatened his job. And Craig Lally—the quality guy who showed Steve the shape of his trap and introduced him to a cafeteria manager with a remarkable turnaround story—offered to help him work differently. Steve thanked him politely and left.*
 >
 > *He's out of moves.*
 
@@ -937,9 +937,9 @@ He said nothing.
 
 "Tell me how that went."
 
-Steve chose his words carefully. "He tried to help. Drew some diagrams, took me to the cafeteria to show me something. But I walked out. I wanted practical answers, not napkins."
+Steve chose his words carefully. "He couldn't help me with FPP. That was my priority. He wanted to help me prevent my next FPP."
 
-Norbert said, "He called me after your chat. He said he couldn't help everyone, and that was especially true if they didn't want help. He said that if you ever did decide you wanted help, all you had to do was ask."
+"I spoke to him. He said your conversation was brief, that you seemed reluctant to engage further but that you parted on good terms." Norbert paused. "He said he was sure he could help you, but that you'd have to ask."
 
 "Oh."
 
@@ -960,58 +960,86 @@ Then he hung up.
 ## Ten Minutes
 
 > [!abstract] Chapter Summary
-> *Steve swallows his pride and calls Craig, who reluctantly agrees to give him ten minutes. Steve spends eight of them explaining his crisis. Craig promises to help—a noose around one's neck focuses the mind.*
+> *Steve swallows his pride and calls Craig, who reluctantly agrees to give him ten minutes. Steve spends eight of them explaining his crisis. Craig promises to help—a noose around one’s neck focuses the mind.*
 
-Five painfully long minutes later, Steve forced a smile on his face and dialled Craig Lally. It was 3:56 p.m.
+Steve put the phone down and rested his head in his hands. The day had started well enough, but then suddenly—due to circumstances beyond his control and despite his loyalty to Wyxcomb and to his bosses—he’d become expendable.
 
-Craig answered, then paused. "I didn't expect to hear from you again."
+Five painfully long minutes later, he forced a smile on his face and dialled Craig Lally. It was 3:56 p.m.
 
-Steve apologized for how their earlier meeting had ended abruptly, then asked if Craig could spare him thirty minutes.
+Craig answered, then paused. He sounded more distracted than surprised. "I didn’t expect to hear from you again."
 
-"Thirty minutes? I don't have thirty minutes to spare."
+Steve apologized for not calling back sooner, then asked if Craig could spare him thirty minutes.
 
-"Fifteen minutes, then?"
+"Thirty minutes? I don’t have thirty minutes to spare."
 
-"I'm afraid I am very busy just now."
+"Fifteen minutes, then? It shouldn’t take more than that."
 
-Steve steeled his jaw. "I'm desperate. I swear I wouldn't ask otherwise."
+"I’m afraid I am very busy just now."
 
-Another pause. "Yes, okay. I'll give you ten minutes, but no more."
+Steve steeled his jaw. "I’m desperate. I swear I wouldn’t ask otherwise."
 
-Steve spent the first eight of his ten minutes explaining why he was desperate. Craig summed it up matter-of-factly.
+Another pause. "Yes, okay. I’ll give you ten minutes, but no more."
 
-"So, your concern is this: Hal Gibbet, a man not known for taking prisoners, expects you to deliver FPP by December 1st, but you don't know how long it will take to build the remaining features, then test and rework them; therefore you don't know if you can keep your promise. Is that it?"
+Steve thanked him. He had no intention of sticking to just ten minutes. "We’re experiencing a few little problems."
+
+"Little problems? You said you were desperate."
+
+"No, desperate is accurate."
+
+Steve spent the first eight of his ten minutes explaining why he was so desperate, glossing over the details of the mutiny. Craig summed it up matter-of-factly.
+
+"So, your concern is this: Hal Gibbet, a man not known for taking prisoners, expects you to deliver FPP by December 1st, but you don’t know how long it will take to build the remaining features, then test and rework them; therefore you don’t know if you can keep your promise. Is that it?"
 
 "Yes."
 
-"Let's use that pressure to our advantage. A noose around one's neck, they say, is very good at focusing one's thoughts."
+"The cloud we drew—Darth. Has anything changed?"
 
-Steve didn't laugh. It was *his* neck Craig was talking about.
+"It’s the same cloud, just much worse. The date’s shrunk, and the only way we can possibly deliver on time is to cut more features and risk a shoddier product."
 
-Craig told Steve he’d call him back. 
+"Let’s use that pressure to our advantage. A noose around one’s neck, they say, is very good at focusing one’s thoughts."
 
-A few minutes later, Steve’s phone rang. Craig said, "I've just spoken with Norbert. I've cleared my diary for the afternoon. I'll meet you downstairs, in the cafeteria, in twenty minutes. Bring your FPP folder with you."
+Steve didn’t laugh. It was *his* neck Craig was talking about.
+
+Craig told Steve he’d call him back.
+
+A few minutes later, Steve’s phone rang. Craig said, "I’ve just spoken with Norbert. I’ve cleared my diary for the afternoon. I’ll meet you downstairs, in the cafeteria, in twenty minutes. Bring your FPP folder with you."
 
 ---
 
-## Don't Think About Small Batches
+## Don’t Think About Small Batches
 
 > [!abstract] Chapter Summary
-> *Craig gives Steve one strange instruction: "Do not think about small batches." Steve has no idea what he's talking about.*
+> *Craig delivers Norbert’s threat, mentions his son’s wedding, and gives Steve one strange instruction: “Do not think about small batches.” Steve has no idea what he’s talking about.*
 
-When they sat down, Craig had one rule.
+Steve shook Craig’s hand briskly, then dropped the FPP folder on the cafeteria table with a *thunk*.
 
-"Do not think about small batches. Okay?"
+Apart from a few people meeting around tables, the cafeteria was quiet. It would be busier later when the evening shift call center workers came for their subsidized dinners.
 
-"Small what?"
+Craig placed his phone on the table. “Norbert confirmed your job is at risk. He said that if you walk out on me this time, I should ask you to call him.”
 
-"Batches. Don't think about them."
+“What?”
+
+“He said he’ll fly here and take over your job himself.”
+
+Steve flinched. “He couldn’t do my job.”
+
+Craig shrugged, then—having passed on Norbert’s message—changed topic. “My son gets married this weekend. The wedding rehearsal is this evening. My family has flown in from around the world and I’m on vacation for the next three weeks. So your timing, from your point of view, sucks.”
+
+Steve could feel the noose tighten. Out of politeness, he said, “Congratulations. We should get started then.”
+
+“Excellent!” Craig boomed. He stood. “Leave your folder there. Follow me.”
+
+They started walking towards the kitchen, and Craig said, “There’s just one rule I want you to follow. Do not think about small batches. Okay?”
+
+“Small what?”
+
+“Batches. Don’t think about them.”
 
 Steve had no idea what he was talking about.
 
-“What do you mean ’small batches’?”
+“What do you mean ‘small batches’?”
 
-Craig nodded towards the kitchen. “If the kitchen were baking buns for Frankfurter Fridays, they might bake 96 at a time.  That would be a big batch. If they baked 6 at a time, that’d be a small batch.  Don’t think about small batches - okay?”
+Craig nodded towards the kitchen. “If the kitchen were baking buns for Frankfurter Fridays, they might bake 96 at a time. That would be a big batch. If they baked 6 at a time, that’d be a small batch. Don’t think about small batches—okay?”
 
 Steve felt none the wiser, though he did always look forward to Frankfurter Fridays.
 
@@ -1021,113 +1049,136 @@ Steve felt none the wiser, though he did always look forward to Frankfurter Frid
 
 ---
 
-## The Dog Food Problem
-
-> [!abstract] Chapter Summary
-> *Cheryl explains how the cafeteria was about to be outsourced—the food was barely fit for a dog. Craig forced them to eat their own cooking, and within two weeks they'd transformed the quality.*
-
-Craig took Steve back into the cafeteria kitchen to meet Cheryl, for the second time.
-
-Cheryl's eyes narrowed when she saw Steve. "You again?"
-
-Craig said, “I need help.”
-
-She pursed her lips, studying his face. She must have decided he meant it. "You want to hear about our French Fry Revelation?"
-
-"I do."
-
-She led them through to her little office where the three of them sat.
-
-"First, some context. Three years ago, this cafeteria was about to be outsourced. The food was horrible—barely fit for human consumption. You wouldn't feed it to a dog. Well, not a posh dog; a stray would eat it if there were no alternatives. We called this our Dog Food Problem.
-
-"That's when Craig turned up and forced us to eat our own dog food. Literally. He insisted we eat the same food we served our customers. And once we started tasting our own cooking?" She smiled. "We started caring about it. We tested the food before we served it. Fixed things with a little salt or pepper. Within two weeks, we'd transformed the quality. That won us loads more customers. We made loads more money. We saved our jobs."
-
-Steve nodded. She was clearly proud of the achievement.
-
-"Here's the thing though. Soup is cheap, easy to cook and hard to screw up. If the stock and the other ingredients are good, then the soup's good. But, crazy as this sounds, our soup often tasted horrible. You want to know why?"
-
-"Of course."
-
-"No one ever tasted it before serving it."
-
-"Pardon?"
-
-"No one ever tasted it before serving it. We cooked food from scratch, following supposedly 'foolproof' recipes from Head Office. We followed the recipes to the letter, but no one tested them to see how they tasted."
-
-Steve was stunned.
-
-"Well, I'm embarrassed to admit it now, but—frankly—we didn't care. None of us ate the food we sold and none of us particularly cared about the food we sold. We worked our hours, what more could you ask from us?"
-
-"What changed?"
-
-"By threatening to outsource our jobs, our bosses gave us a reason to worry. By insisting we eat our own food, Craig gave us a reason to care."
-
-That was the Dog Food Problem—eat what you serve. Taste the software.
-
-"But that was only the first step," Cheryl said.
-
----
-
 ## The French Fry Revelation
 
 > [!abstract] Chapter Summary
-> *Cheryl reveals the secret of never running out of chips: cook small batches and replenish on demand. By the end of the first month, they were serving 30% more customers. Revenue up 40%. Jobs saved.*
+> *Steve returns to Cheryl's kitchen. She reminds him of the Dog Food Problem, then reveals the second step: cooking small batches, replenishing on demand. By the end of the first month—30% more customers, revenue up 40%, jobs saved.*
 
-Cheryl led them to the deep fryers.
+Craig led Steve back into the cafeteria kitchen. Cheryl was by the soup kettles, checking something on her clipboard.
 
-"Tell me. What would happen if we ever ran out of chips?"
+She looked up and saw Steve. Her eyes narrowed. “You again?”
 
-"You'd all be strung up outside the castle gates."
+He wasn't sure what to say. The last time he'd been down here, he'd listened to her whole Dog Food story, thanked her, and left before she could tell him the rest. She'd walked off without saying goodbye. He'd felt bad about that.
 
-She nodded. "Would that happen if we ran out of salad, or soup, or two-week-old cabbage?"
+“I should have stayed for the French Fries,” he said.
 
-"Not much. Maybe people would eat chips instead."
+She studied him for a moment. Something about him was different from last time. Less polished. More worn. Last time he'd been interested but distracted—a busy man with somewhere else to be. This time he looked like a man with nowhere else to go.
 
-"Unspoken rule Number One around here is: Don't run out of chips. Rule Two is: Don't serve cold chips. Understand?"
+“Yes,” she said. “You should have.” Then she softened. “Come on, then.”
 
-Steve smiled. "Some things are sacred."
+She led them through to her little office where the three of them sat.
 
-"Our French Fry Revelation happened when Craig asked me why we never ran out of chips and yet, at the same time, we rarely threw out chips because of cooking too many. You know what I said to him?"
+“Last time, you heard how Craig forced us to eat our own dog food. That led us to test our food and fix it—at first only after it was cooked, but then we learned to check the ingredients before, during, and after each stage. Our quality improved enormously. That won us loads more customers. We saved our jobs. Remember?”
 
-"No idea."
+Steve nodded. He remembered.
 
-"It's obvious, Steve. Our serving staff keeps an eye on how many chips they've got out front, and when it gets too low, they shout out and we cook more. Craig says we *replenish on demand*." She glanced at Craig. "Has he asked you not to think about small batches yet?"
+“Good. That was the first step.” She stood. “Now let me show you the second. Come with me.”
 
-Steve looked at Craig, but he was eagerly reading a safety instruction notice stuck beside the fryers. "He has."
+She led them out of the office and through the kitchen's swinging doors, down to the far end of the serving area. She pointed at the big metal units where the food was stored.
 
-"He did the same to me. It was like I was an oyster and he'd planted a bit of grit inside my shell, hoping I'd turn it into a pearl."
+“These are called bain-maries. They keep food warm after it's cooked.” She pointed at a large roast sitting under hot lamps. “And those lamps keep the roasts warm.”
 
-Cheryl continued. "Nowadays, we prep most of the vegetables before the lunch rush. We cook our first small batch just before lunch, and during the service our servers keep an eye on what's selling. They shout out to the cooks when we need to put on the next batch."
+Steve nodded.
 
-"What happens if you're really busy? Don't you run the risk of not keeping up?"
+“Have you tasted two-hour-old cabbage?”
 
-"That could happen, but it doesn't. Can you figure out why?"
+“My grandmother was an expert at one-hour-old cabbage.”
 
-Steve put his hand to his chin. "Do you cook in larger batches, based on demand?"
+She laughed. “Then you know it's not nice. Now, Steve, we used to keep our food warm using the bain-maries and heat lamps. Trouble is, if food sits too long it transforms into...”
 
-"Bingo!" she said. "Give the man a cigar!"
+She looked at him, eyebrows furrowing, waiting for him to finish. Steve hesitated, then said, “Dog food?”
+
+Smiling, she slapped him on the arm. “You've got a great memory, Steve.”
+
+It hurt a little, but he was still pleased with her praise.
+
+“Back then, we cooked our food in big batches. A big pot of peas. A big pot of cabbage. A big pot of carrots. They all went on at 10:30. Then, after they were cooked, we moved the food to the serving area until folks came down for lunch. The food wasn't too bad if you ate at noon, but it was horrid at 2 p.m.”
+
+She shook her head, then leaned in conspiratorially. “Did you know that by adding loads more oil to a big pot of curry it will sit much longer on a low heat without burning?”
+
+“No.”
+
+“Well, you do now. Just remember that next time you're tempted by a cheap curry takeout.”
+
+Steve made a mental note.
+
+“We also had a second problem. On some days, especially rainy days, we didn't produce enough food and the staff complained. Other days we produced too much and chucked a lot of it.” She turned to Craig. “Tell him what you called that.”
+
+Craig said, “Producing stuff that doesn't sell is overproduction. Losing sales because you don't have what your customers want is underproduction. Both are bad, but under-producing and losing sales is usually worse.”
+
+“Some days we'd do both,” Cheryl continued. “We'd cook up too much soup but not enough lasagna. We guessed at the start of each week how much to produce for the following week, and we almost always got it wrong.”
+
+Steve nodded. How could you guess something like that?
+
+Cheryl led them back into the kitchen and over to the deep fryers.
+
+“So this is where the magic happened?” Steve said.
+
+“Indeed it did. Now, tell me. What would happen if we ever ran out of chips?”
+
+“You'd all be strung up outside the castle gates.”
+
+She nodded. “Would that happen if we ran out of salad, or soup, or two-week-old cabbage?”
+
+“Not much. Maybe people would eat chips instead.”
+
+“Unspoken rule Number One around here is: Don't run out of chips. Rule Two is: Don't serve cold chips. Understand?”
+
+Steve smiled. “Some things are sacred.”
+
+“Our French Fry Revelation happened when Craig asked me why we never ran out of chips and yet, at the same time, we rarely threw out chips because of cooking too many. You know what I said to him?”
+
+“No idea.”
+
+“It's obvious, Steve. Our serving staff keeps an eye on how many chips they've got out front, and when it gets too low, they shout out and we cook more. Craig says we *replenish on demand*.” She glanced at Craig. “Has he asked you not to think about small batches yet?”
+
+Steve looked at Craig, but he was eagerly reading a safety instruction notice stuck beside the fryers. “He has.”
+
+“He did the same to me. It was like I was an oyster and he'd planted a bit of grit inside my shell, hoping I'd turn it into a pearl.”
+
+Cheryl continued. “Nowadays, we prep most of the vegetables before the lunch rush—clean them, peel them, wash them, slice them, dice them. We cook our first small batch just before lunch, and during the service our servers keep an eye on what's selling. They shout out to the cooks when we need to put on the next batch.”
+
+“What happens if you're really busy? Don't you run the risk of not keeping up?”
+
+“That could happen, but it doesn't. Can you figure out why?”
+
+Steve put his hand to his chin. “Do you cook in larger batches, based on demand?”
+
+“Bingo!” she said. “Give the man a cigar!”
 
 Strange. That was the second time someone had offered him a cigar that day.
 
-"The first day was nuts," Cheryl said. "The second day was a little less nuts. And things just kept getting less nuts every day."
+“Our customers loved the fresher vegetables—loved them!—so we figured out how to cook more food in smaller batches. We picked soup next. What if you cooked up a big batch of soup at the start of the day and nobody liked it?”
 
-Steve said, "Is that why you have a sign out front that says some food may contain nuts?"
+Steve could see where she was going. “You'd end up pouring it down the sink.”
 
-She ignored him.
+“And if it happened a lot, people just wouldn't risk buying soup. So we cooked smaller batches, and if a soup wasn't popular, we'd put on a new flavour. If it was popular, we'd cook a bigger batch of the same, pronto.”
+
+“The first day was nuts,” Cheryl said. “The second day was a little less nuts. And things just kept getting less nuts every day.”
+
+She described how she and her staff took turns visiting the good High Street lunch shops, spying on them to learn how they worked. They used some of their early profits to buy two small ovens like the ones Subway uses and started baking small batches of fresh lunch rolls throughout the lunch break. They replaced two bain-maries with a sandwich bar, since they no longer needed the storage space.
+
+Her face beamed with obvious pride. “Not bad, eh?”
+
+Craig said, “Not bad at all.”
 
 By the end of the first month, they were serving thirty percent more customers, revenue was up by forty percent, and since most of their costs were fixed, they were suddenly turning a healthy profit.
 
 They got to keep their jobs.
 
-Steve said, "So cooking small batches not only improved your product quality, it also solved your forecasting problem. Rather than cooking in big batches way in advance, you cook smaller batches, which lets you adapt according to what people are buying."
+Steve said, “So cooking small batches not only improved your product quality, it also solved your forecasting problem. Rather than cooking in big batches way in advance, you cook smaller batches, which lets you adapt according to what people are buying.”
 
-"Exactly!" said Cheryl.
+“Exactly!” said Cheryl.
 
 It all made perfect sense. To them. But Steve had no idea how it applied to his situation. He didn't know what small batches meant in a software context. And he suspected neither did Craig. He may hope the principles Cheryl's team used also applied to software development, but Steve was certainly a guinea pig.
 
 For the next few hours, he decided he would cross his fingers and hope Craig was right. He had nothing left to lose.
 
 Craig thanked Cheryl and they made their way back to their seats out front.
+
+Craig said, “There's another thing Cheryl's team did that she forgot to tell you. They thinned their menu of all but their most popular dishes. That gave them wiggle room during peak times to learn how to work their new way, and they gradually added new dishes over time to keep things interesting.”
+
+“Okay.” It would be some time before Steve realized how important that step—thinning the menu—would be to him.
 
 ---
 
@@ -1209,7 +1260,7 @@ Could you?
 
 Craig handed him a homework assignment: Think about how Cheryl's lessons might apply to software. Think about small batches. And call Catherine to ask her a few questions.
 
-Then Craig left for his son's wedding rehearsal, promising to be back in a few days.
+Then Craig left for his son's wedding rehearsal. He'd be on vacation for three weeks. Steve was on his own.
 
 Steve checked his phone. He had a voicemail from Eleanor which more or less told him she'd spoken to Norbert, and that he was to work with Craig or pack his bags. Nice.
 
@@ -1282,6 +1333,47 @@ But of course, what customer in their right mind would believe that guarantee? T
 Steve wiped down the benches and gave the kitchen floor a quick sweep.
 
 Craig was right; small batches were key. But a key is useless without someone to put it in the lock, turn it, and then yank the door open.
+
+---
+
+## Thinning the Menu
+
+> [!abstract] Chapter Summary
+> *While Craig is at the wedding, Steve makes his own moves. He freezes every project in his portfolio except FPP, redirects the staff, and gives Gregor the help he desperately needs.*
+
+*Late August.*
+
+Craig had said Cheryl's team thinned their menu down to their most popular dishes. It gave them wiggle room to learn how to work their new way.
+
+Steve had his own menu to thin.
+
+Over the next two weeks, while Craig was at the wedding and then on vacation, Steve called in every favour he had. He went to Eleanor with a list: seven active IT projects besides FPP, each consuming developers, analysts, and testers who were stretched across too many things at once.
+
+"I want to freeze them all."
+
+Eleanor peered at him over those red spectacles. "All of them?"
+
+"Every one. Temporarily. I need those people on FPP."
+
+She said nothing for a long time. Then: "Which ones can we unfreeze first?"
+
+They went through the list together. Two could be paused indefinitely—the customers wouldn't notice for months. Three could be frozen for six weeks with some awkward phone calls. Two would cause problems, but Eleanor made the calls herself.
+
+Steve called it running a motorcade. Clear the road. Stop all other traffic. Let the one thing that matters get through.
+
+Within a week, he'd moved fourteen people onto FPP. Not all of them were happy about it. Several had to be introduced to Gregor, who was already drowning.
+
+That was the other problem. Gregor was the bottleneck. One project manager trying to coordinate forty-odd people, track hundreds of tasks, manage the testing schedule, handle the daily crises, *and* now absorb fourteen newcomers. It wasn't going to work. Gregor was doing what Steve himself had been doing—pushing harder in the same direction—when what he needed was help.
+
+Maggie Keane had been running the data migration project, one of the ones Steve had just frozen. She was organised, patient, built like a field hockey goalkeeper, and Gregor had trained her himself six years earlier. She still called him "boss" out of habit, even though she'd long since outgrown the title.
+
+Steve pulled her aside. "I need you to take half of Gregor's load. He trusts you. I trust you. The project manager can't be the bottleneck."
+
+Maggie studied the FPP project board for about ten minutes, asked Gregor three questions, and by the end of the day had divided the work into two streams: one she'd manage, one Gregor would keep. They barely needed to discuss it. They'd worked together long enough to know how the other thought.
+
+Gregor looked like someone had taken a boulder off his chest. He didn't say thank you—that wasn't his style—but he nodded at Steve with something that might have been gratitude.
+
+Steve still didn't know how to fill the empty box on Craig's napkin. He still didn't know what small batches looked like in software. But he'd thinned the menu, cleared the road, and made sure his project manager wasn't the constraint. When Craig came back, Steve would be ready.
 
 ---
 

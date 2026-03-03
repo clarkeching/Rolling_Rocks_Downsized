@@ -259,8 +259,35 @@ Throughout Part 2, show scenes rather than summarize them. Add from original:
 - Cafeteria emptying as evening approaches
 - Evening shift workers in casual clothes
 
+### Part 2 changes applied (~15:00)
+
+All six suggestions from above have been applied to the main manuscript:
+
+1. **"Story So Far" box** — "Steve walked out on" → "Craig Lally offered to help him work differently. Steve thanked him politely and left."
+2. **Norbert conversation** — Replaced "I walked out" with original novel version: "He couldn't help me with FPP. That was my priority. He wanted to help me prevent my next FPP." / "He said you parted on good terms."
+3. **Ten Minutes enriched** — Added: Steve's head in hands, "more distracted than surprised," "not calling back sooner" (not "ended abruptly"), "little problems" / "desperate is accurate," cloud/Darth callback, Steve's cunning ("no intention of sticking to ten minutes")
+4. **Don't Think About Small Batches enriched** — Added: FPP folder *thunk*, cafeteria atmosphere, Norbert's threat via Craig ("He'll fly here and take over your job"), Steve's flinch, Craig's son's wedding this weekend, three-week vacation, "your timing sucks," "Congratulations. We should get started then," "Excellent!" boom, small batches instruction happens as they walk to kitchen
+5. **Dog Food Problem chapter merged into French Fry Revelation** — Steve returns, Cheryl says "You again?", Steve: "I should have stayed for the French Fries." Brief dog food recap, then straight into French Fries. Enriched with original novel material: bain-maries and heating lamps, grandmother's cabbage, two-hour-old cabbage, big-batch timing, oil-in-curry trick, overproduction/underproduction, soup flavour switching, High Street espionage, Subway ovens, sandwich bar, "Not bad, eh?", thinning the menu, Steve's honest "It all made perfect sense. To them."
+6. **Craig departure fixed** — "promising to be back in a few days" → "He'd be on vacation for three weeks. Steve was on his own."
+
+### Pacing: new "Thinning the Menu" chapter added (~15:30)
+
+Clarke wanted breathing room between the teaching sessions and Part Three. Added a new chapter between "Small Batches Click" and Part Three:
+
+**"Thinning the Menu"** — set during the 2-3 weeks while Craig is at the wedding:
+- Steve applies Cheryl's lesson to his portfolio: freezes seven projects besides FPP, redirects fourteen people. Calls it "running a motorcade."
+- Eleanor scene: "I want to freeze them all." / "All of them?" / "Which ones can we unfreeze first?" — she makes the tough calls herself
+- **Gregor's bottleneck fixed**: introduces Maggie Keane (ran the frozen data migration project, field hockey goalkeeper build, Gregor trained her six years ago). She takes half Gregor's load, splitting FPP into two streams
+- **"The project manager can't be the bottleneck"** — addresses the constraint directly
+- Connects Cheryl's "thinning the menu" concept to Steve's portfolio decisions
+- Ends with: "He'd thinned the menu, cleared the road, and made sure his project manager wasn't the constraint. When Craig came back, Steve would be ready."
+
+**New character**: Maggie Keane — organised, patient, Gregor's former protégée. Needs a character profile if Clarke wants her in later scenes.
+
+### Commits
+
 ### Still open
-- All Part 2 suggestions above — awaiting Clarke's approval before applying
+- Maggie Keane may need to appear in later team meeting scenes (Part Three/Four)
 - Mermaid diagram for the cloud is placeholder
 - CorkScrew Solutions footnote to add later
 - Editorial feedback's 8 expansion priorities still to work through
