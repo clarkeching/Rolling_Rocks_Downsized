@@ -176,9 +176,93 @@ These changes were found in the working tree but not recorded in the Session Log
 1. `794d0cc` — Reconnect git after vault move from iCloud to Documents folder
 2. `7f8fd2d` — Update local path in CLAUDE.md to match new vault location
 
-### Still open
+### Still open (as of 2026-03-04)
 - Mermaid diagram for the cloud is placeholder — Clarke will have a proper image for publication
 - CorkScrew Solutions footnote to add later
 - Editorial feedback's 8 expansion priorities still to work through (Egyptian Revelation scene is #1)
 - "Darth" could become a recurring callback throughout the book — not yet added
 - Requirements chapter still feels Socratic despite resistance added — may need further work
+
+---
+
+## 2026-03-03 ~14:00
+
+### Dog Food section moved from Part 2 to Part 1 (~14:00)
+
+**Decision**: Clarke decided the Dog Food section with Cheryl should move from Part 2 back into Part 1. Steve actually hears the story during his first visit, but leaves on good terms — not sulking, not making excuses, just genuinely unconvinced that a cafeteria turnaround applies to software.
+
+**What changed in Part 1** ("You Look Like a Dork"):
+- Completely rewritten from ~48 lines to ~130 lines
+- Drew heavily from original novel (Chapters 16-17-18)
+- **Added from original**: Randall the server, Cheryl on phone with clipboard, Craig explaining outsourcing context while they wait, the hug, "computer whiz kids from upstairs," kitchen tour with sensory detail (walk-in chiller, onions frying), "I've seen you in the queue," bain-marie serving area, "she called him a newbie," full Dog Food story (big opinionated lady from Dundee, one horrifying condition, soup nobody tasted, idiot-proof rules, late inspection → in-process inspection), "French Fry Revelation" teaser, Cheryl walking off without goodbye, Craig-Steve private conversation
+- **Steve's departure**: Polite, warm, genuine. Thanks Cheryl sincerely. Shakes Craig's hand. Puts tie back on. Leaves thinking "Nice story. Wrong industry." Not angry, not defensive — just a man who can see a kitchen turnaround but can't see how it scales to 47 million lines of code
+- **Closing beat preserved**: "Darth was real. And Steve had no idea how to fight him."
+
+**What this sets up for Part 2**:
+- Steve already knows the Dog Food story — Part 2 doesn't need to retell it
+- Cheryl liked Steve (he was respectful) but was frustrated he didn't stay for the full story
+- Craig offered help, Steve politely declined
+- When Steve comes back desperate in Part 2, the emotional weight is: "I should have listened. I was wrong."
+
+### Part 2 suggestions (not yet applied — Clarke to approve)
+
+#### 1. "The Story So Far" box
+**Current**: "the one person who might have been able to help—Craig Lally, the quality guy from upstairs—Steve walked out on."
+**Fix**: Steve didn't walk out. Something like: "Craig Lally offered to help him work differently. Steve thanked him and left."
+
+#### 2. Norbert conversation ("Start Looking for a New Job")
+**Current**: "He tried to help. Drew some diagrams, took me to the cafeteria to show me something. But I walked out."
+**Fix** (from original Ch 22): Steve: "He couldn't help me with FPP. That was my priority. He wanted to help me prevent my next FPP." Norbert: "He said your conversation was brief, that you seemed reluctant to engage further but that you parted on good terms."
+
+#### 3. "Ten Minutes" chapter
+**Minor fix**: "apologized for how their earlier meeting had ended abruptly" → "apologized for not calling back sooner"
+**Enrich with original novel detail** (from Ch 23-24):
+- Craig "more distracted than surprised"
+- "Little problems" / "desperate is accurate" exchange
+- Craig's son's wedding this weekend, family in from around the world, three-week vacation
+- "Your timing, from your point of view, sucks."
+- "Congratulations. We should get started then."
+- Norbert's threat via Craig: "He said if you walked out on me this time, call him. He said he'll fly here and take over your job."
+- FPP folder *thunk* on the table
+- Craig's "Excellent!" boom
+
+#### 4. "The Dog Food Problem" chapter — MAJOR REWORK
+**Problem**: Steve already heard the full story in Part 1. Currently retells it from scratch.
+**Suggested approach**: Merge into "The French Fry Revelation." The new combined chapter:
+- Cheryl: "You again?" (but warmer — she liked him last time)
+- Steve: "I should have stayed for the French Fries."
+- She studies him. Something is different. Less polished, more worn.
+- Brief callback: "Last time, you heard about our Dog Food Problem. Remember?"
+- Steve nods.
+- "Good. That was the first step. Now let me show you the second."
+- Straight into French Fry Revelation
+
+#### 5. French Fry Revelation — ENRICH (closer to original novel)
+Add from original Chapters 25-26:
+- Bain-maries and heating lamps (physical texture)
+- "Have you tasted two-hour-old cabbage?" / grandmother callback
+- Big-batch timing: cooked at 10:30, horrid by 2pm
+- Oil in curry trick (comedy + teaching)
+- Overproduction/underproduction (Craig's formal terms — important concept)
+- "Some days we'd do both" — too much soup, not enough lasagna
+- Small-batch soup detail: cook smaller, switch flavors if unpopular
+- High Street espionage: visiting good lunch shops, buying Subway-style ovens
+- "Not bad, eh?" / Craig: "Not bad at all."
+- Thinning the menu (maps to descoping in software)
+- Cheryl slaps Steve's arm when he gets something right
+- Steve's honest internal: "It all made perfect sense. To them."
+
+#### 6. General principle: novella, not summary
+Throughout Part 2, show scenes rather than summarize them. Add from original:
+- Steve's head in hands after Norbert's call
+- Powering down phone after Eleanor's voicemail
+- Cafeteria emptying as evening approaches
+- Evening shift workers in casual clothes
+
+### Still open
+- All Part 2 suggestions above — awaiting Clarke's approval before applying
+- Mermaid diagram for the cloud is placeholder
+- CorkScrew Solutions footnote to add later
+- Editorial feedback's 8 expansion priorities still to work through
+- "Darth" callbacks throughout the book — not yet added
+- Requirements chapter still feels Socratic

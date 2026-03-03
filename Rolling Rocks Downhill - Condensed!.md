@@ -618,13 +618,31 @@ Craig led Steve down to the cafeteria kitchen.
 
 “The cafeteria?”
 
-Craig smiled and pushed through the swing door to introduce Steve to Cheryl, a thin, short, middle-aged woman who’d worked there for twenty-eight years.
+Craig smiled and pushed through the swing door. He waved at Randall, a burly server in the cafeteria’s black uniform, carving through a roasted beef joint with a large knife. “How you doing, Randall?”
 
-Cheryl said, “Craig says you’ve got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?”
+“Aye, I’m grand, Craig. Cheryl’s in the kitchen. She’s expecting you.”
 
-Steve felt his face redden, not sure what she knew or whether she was serious or not.
+Craig led Steve through and waved at a thin, short, middle-aged woman carrying a clipboard and pacing while talking on a portable phone. Spotting Craig, she smiled broadly and mouthed *two minutes*, waving them towards a small office.
 
-She said, “Can you take off your tie, please?”
+While they waited, Craig said, “My new boss wanted me to help outsource the cafeteria operations. But since many of my friends had just lost their jobs offshore, I wasn’t keen on that idea. Instead, I helped the cafeteria team turn things around so that it no longer made sense to outsource them. It was easy for me—the kitchen is just a small factory—but not so easy for them.”
+
+He paused to let that last sentence sink in.
+
+“The cafeteria suffered two classic problems: a quality problem they call their Dog Food Problem, and a flow problem they named their French Fry Revelation. Both are interrelated. Cheryl will explain.”
+
+Cheryl arrived and hugged Craig, then turned to Steve and stuck out her hand. “I’m Cheryl. I manage this place. You must be Steve.”
+
+They shook hands. She had a strong grip for such a tiny woman.
+
+“Craig says you’re one of those clever computer whiz kids from upstairs.”
+
+Steve nodded.
+
+“And that you’ve got yourself in a bit of a mess and you need old Cheryl to show you how to sort it out?”
+
+Steve felt his face redden, not sure what she knew or whether she was serious. “Something like that.”
+
+“Good. First, can you take off your tie, please?”
 
 “Is it a safety hazard?”
 
@@ -632,35 +650,99 @@ She said, “Can you take off your tie, please?”
 
 She said it in such a nice but firm way that Steve did as he was told.
 
-Cheryl started explaining how they’d transformed the cafeteria—something about dog food and French fries—though Steve wasn’t really listening. He nodded along, as Cheryl and Craig kept yabbering on, but his mind was somewhere else entirely. Not on his emails this time. On those two napkins.
+Cheryl led him on a quick tour of the kitchen, starting at the back door where the fresh ingredients arrived each morning. They popped into a walk-in chiller and quickly back out again. She pointed out the various jobs her team was performing as they prepared for the lunchtime rush—chopping, stirring, cleaning—the sweet-savoury smell of onions frying dominating everything. She trotted to the swinging doors that separated the kitchen from the serving area and pushed one open. “We serve hundreds, sometimes thousands, of meals each day. I’ve seen you in the queue, Steve.”
 
-Craig had drawn his problem perfectly. Too perfectly. Steve had walked into that brunch thinking he had a deadline problem—a difficult but straightforward challenge of fitting work into time. He was leaving with something worse: the growing suspicion that the *way* they worked was fundamentally broken. That every project he’d ever run had been a car factory with men in white coats and rubber mallets, and he’d just never noticed.
+He said he recognised her too. She seemed happy about that.
 
-And the solution? An empty box on a napkin. *What if you didn’t have to choose?* What if there was a corkscrew that could pop Darth wide open? That sounded lovely, in the way that “What if gravity didn’t apply?” sounded lovely. Theoretical. Nice on a napkin. Useless on a Monday morning when you had forty people waiting for you to tell them what to do differently.
+“Shall I tell Steve about our miracle turnaround, then?” she said, turning to Craig.
 
-He didn’t want theories. He didn’t want diagrams. He wanted someone to tell him: do *this*, on *Monday*, and things will get better. Instead he’d been given a framed picture of his own trap and a question mark where the escape route should be.
+Craig tilted his head from side to side, as if this required profound deliberation, then nodded emphatically. “Why not?”
 
-Cheryl was mid-sentence about something involving soup when Steve held up his hand.
+Steve glanced at his watch. His self-imposed time limit was almost up, but he decided to hang around a little longer. He didn’t want to seem impolite. And she did prepare most of his lunches.
 
-“I’m sorry,” he said. “I’m really sorry. I need to go.”
+“Come through here,” Cheryl said, leading them out through the swinging doors to stand beside the serving area. Randall had gone, leaving the roasted beef and a pork roast resting under heating lamps for the call center staff whose shifts forced them to eat earlier than most.
 
-Cheryl’s smile dropped into a frown. She folded her arms.
+She asked Steve how long he’d been at Wyx-Fin. He told her he’d spent nineteen years within the Wyxcomb Group. She called him a newbie. She’d worked in the canteen for twenty-eight years.
 
-“I’m not being rude, I promise. It’s just—“ He looked at Craig. “I appreciate what you’re doing. I do. The picture you drew—that was bang on. But I’ve got a team drowning upstairs and I came here looking for answers. Practical answers. And so far I’ve got two napkins and a tour of the cafeteria, and I feel more stuck than when I walked in.”
+“So,” she said. “Up until about three years ago, our food was barely fit for human consumption. You wouldn’t feed it to a dog. Well, not a posh dog; a stray would eat it if there were no alternatives. We called this our Dog Food Problem.
 
-Craig studied him for a moment. He didn’t look offended. If anything, he looked like he’d been expecting this.
+“Our bosses said our food cost too much and our customers hated it. They wanted to lay us off and replace us with a commercial catering operation. They were right about the problem, wrong about the cure.”
 
-“Let’s talk when you’re ready to listen,” Craig said quietly. “Because Cheryl here was about to give you exactly the practical answers you just asked for.”
+She pointed to Craig. “That’s when Craig turned up and forced us to eat our own dog food.”
 
-Steve hesitated. For a fraction of a second, he nearly sat back down. Then his phone buzzed, and whatever thin thread of patience he had left snapped.
+Craig smiled, managing to look both proud and modest at the same time.
 
-“I’ll call you,” he said.
+“He booked lunch with my old boss and me, right here, and told us our food tasted horrible.” She turned to Craig. “You can be awfully blunt sometimes, can’t you?”
 
-He left, feeling discombobulated. That was the only word for it. He’d gone to Craig expecting—what? A quick fix? A magic trick? Instead, Craig had calmly, methodically shown him the shape of his own trap, pointed at an empty box, and said “What if?”
+Craig shrugged, unbothered.
 
-What if. Right. Very helpful. He’d get that printed on a T-shirt.
+“My old boss—a big opinionated lady from Dundee—told Craig to go screw himself. She didn’t come in the next day, and I was offered her job.” Cheryl sighed, as if the memory of what came next was still fresh. “On one horrifying condition.”
 
-The worst part was that he couldn’t un-see the cloud. Darth was real. And Steve had no idea how to fight him.
+“He insisted we eat the same food we served our customers. And once we started tasting our own cooking?” She smiled. “We started caring about it.”
+
+“What do you mean?” Steve said.
+
+“Well, I’m embarrassed to admit it now, but before Craig came along—frankly—we didn’t care. None of us ate the food we sold and none of us particularly cared about the food we sold. We cooked from scratch, following supposedly ‘foolproof’ recipes from Head Office. We followed them to the letter, but no one tested the food to see how it tasted.”
+
+“You’re joking.”
+
+“I’m not. Soup is cheap, easy to cook, and hard to screw up. If the stock and the other ingredients are good, then the soup’s good. But our soup often tasted horrible. You want to know why? Because no one ever tasted it before serving it.”
+
+Steve was genuinely surprised. “Why not?”
+
+“We weren’t professional chefs chosen for our cooking skills, Steve. We were chosen for our ability to follow simple instructions and not ask too many questions.” She spat the words like they were poison. “Our bosses thought we were idiots because we didn’t wear suits to work. But what we achieved after we started breaking their idiot-proof rules proved them wrong.”
+
+“What changed?”
+
+“By threatening to outsource our jobs, our bosses gave us a reason to worry. By insisting we eat our own food, Craig gave us a reason to care.”
+
+Steve nodded. He could see that.
+
+“At first we just tasted things before serving. Fixed things with a little salt or pepper. If we couldn’t fix it, we threw it away and started again.” She looked at Craig. “You had a name for what we did next.”
+
+“You moved from late inspection—testing at the end, when it’s expensive to fix—to in-process inspection. Building quality in as you go.”
+
+Cheryl nodded. “What that meant for us: we started checking the ingredients *before* cooking, not just the finished dish. You don’t want to use bad stock, cook soup in it for hours, then taste it and throw the whole thing out.”
+
+“That’s just common sense,” Steve said.
+
+“It is! And yet we weren’t doing it.” She pointed to some of her team on the other side of the room, putting fresh flowers on the dining tables. “Within two weeks we’d transformed the quality of our food. That won us loads more customers. We made loads more money. We saved our jobs. And that was the first time I truly enjoyed working here. I wasn’t the only one.”
+
+Steve nodded. It was a good story—genuinely impressive. He looked around the kitchen, and everyone seemed engaged and working hard. He couldn’t match what she’d described with what he saw now. She and her team had earned this.
+
+“Thank you, Cheryl,” he said. “And I mean that—not just for now, but for saving the cafeteria. The food, the service, they’re much better than they were. Much better. And now I know why.”
+
+She smiled and thanked him. Then the smile faded. “You do realise you haven’t heard the full story yet? That was only the first step. You need to hear about our French Fry Revelation before any of it fully makes sense.”
+
+“I don’t have time,” Steve said softly. “I’m sorry.”
+
+She made a face, as if she’d smelled something bad. “We’ll see,” she said, and walked off without saying goodbye.
+
+Craig sighed. They walked back to their seats in the dining area without speaking.
+
+“She’s impressive,” Steve said.
+
+“She is.”
+
+“Look—I appreciate what you’re doing. All of it. The diagram was bang on. Cheryl’s story is impressive. But I’m struggling to see how a cafeteria turnaround helps me deliver forty-seven million lines of code by December.”
+
+Craig studied him for a moment. He didn’t look offended. “I understand your reluctance. But given what I’ve heard about how you work, I think I can help you.”
+
+“Help me how?”
+
+“I can’t promise anything about Hal’s date. But I can help you work differently. If you ever want to talk further, you know where to find me.”
+
+Steve took a deep breath. Craig was serious. And he seemed like a good man. But FPP was the only thing Steve cared about right now, and for that, this afternoon had given him two napkins, a cafeteria tour, and a lot of interesting ideas that didn’t solve anything.
+
+“I’ll think about it,” Steve said. He shook Craig’s hand, put his tie back on, and left.
+
+Walking back to the elevator, he turned it over in his head. Eating your own dog food. Testing as you go. Checking ingredients before you cook. Simple stuff. Obvious stuff, once someone said it out loud. He could see how it had transformed that kitchen.
+
+But his world wasn’t soup and roasted beef. It was forty-seven million lines of code, three hundred and twelve pages of requirements, and a launch date that got earlier every time Halifax Gibbet opened his mouth. Craig had calmly, methodically shown him the shape of his own trap—and then taken him on a tour of a cafeteria.
+
+Nice story. Wrong industry.
+
+The worst part was that he still couldn’t un-see the cloud. Darth was real. And Steve had no idea how to fight him.
 
 ---
 
