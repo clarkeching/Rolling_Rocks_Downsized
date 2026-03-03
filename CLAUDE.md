@@ -40,8 +40,8 @@ At the start of every session, BEFORE doing anything else:
 - The `> [!abstract] Chapter Summary` callout boxes are Clarke's navigation aids. Leave them alone.
 
 ## Location
-- **GitHub:** `github.com/clarkeching/Rolling_Rocks_Rewrite`
-- **Local:** `~/Documents/Obsidian/Rolling_Rocks_Downsized`
+- **GitHub:** `github.com/clarkeching/Rolling_Rocks_Downsized`
+- **Local:** `~/Documents/Obsidian/Rolling Rocks Downsized`
 
 ## NotePlan
 Daily notes: `~/Library/Containers/co.noteplan.NotePlan3/Data/Library/Application Support/co.noteplan.NotePlan3/Calendar/YYYYMMDD.md`
