@@ -150,3 +150,35 @@ These changes were found in the working tree but not recorded in the Session Log
 - Editorial feedback's 8 expansion priorities still to work through (Egyptian Revelation scene is #1)
 - "Darth" could become a recurring callback throughout the book — not yet added
 - Requirements chapter still feels Socratic despite resistance added — may need further work
+
+---
+
+## 2026-03-04 ~session start
+
+### Vault moved from iCloud to Documents folder
+- Obsidian vault moved from `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Rolling_Rocks_Rewrite` to `~/Documents/Obsidian/Rolling Rocks Downsized`
+- Now syncing via Obsidian Sync instead of iCloud
+- GitHub repo renamed from `Rolling_Rocks_Rewrite` to `Rolling_Rocks_Downsized`
+
+### Git reconnected (~session start)
+- `.git` directory didn't survive the move — reinitialised git in new location
+- Connected to GitHub via HTTPS (SSH keys not configured, HTTPS works)
+- Restored full commit history from remote with `git reset origin/main`
+- Restored `.gitignore` that was lost in the move
+- Committed and pushed current state
+
+### Aliases and config updated
+- Updated `rr` alias in `~/.zshrc` to point to new vault location
+- Updated remote URL from `Rolling_Rocks_Rewrite` to `Rolling_Rocks_Downsized`
+- Updated local path in `CLAUDE.md`
+
+### Commits
+1. `794d0cc` — Reconnect git after vault move from iCloud to Documents folder
+2. `7f8fd2d` — Update local path in CLAUDE.md to match new vault location
+
+### Still open
+- Mermaid diagram for the cloud is placeholder — Clarke will have a proper image for publication
+- CorkScrew Solutions footnote to add later
+- Editorial feedback's 8 expansion priorities still to work through (Egyptian Revelation scene is #1)
+- "Darth" could become a recurring callback throughout the book — not yet added
+- Requirements chapter still feels Socratic despite resistance added — may need further work
