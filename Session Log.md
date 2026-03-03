@@ -1,6 +1,6 @@
 # Session Log
 
-## 2026-03-02
+## 2026-03-02 ~09:00
 
 ### Picked up from overnight disconnect
 - Recovered context from git history and memory files
@@ -33,7 +33,7 @@
 - Grid callback at line ~1106 updated: "Remember Darth?" + grid labels matched
 - Steve now remembers the cloud too when he sees the grid again
 
-### Commits
+### Commits (~09:30)
 1. `9b70b3a` — All working files (Ch1 rewrite, editorial feedback, Craig draft, lightbulb moments, etc.)
 2. `bc6e0a7` — Main draft updated with three new Craig chapters + Part Two callback fixed
 
@@ -45,7 +45,7 @@
 
 ---
 
-### Part 2a bone audit
+### Part 2a bone audit (~10:00)
 - Compared condensed Part Two (chapters Fowl Mood → It Worked) against original chapters 22-34
 - **Verdict: bones are strong.** Logic chain complete. Nothing critical missing. Nothing unnecessary.
 - Three things thinner than original but fine to leave thin:
@@ -53,7 +53,7 @@
   2. "In-process inspection isn't enough" bridge (covered by "but that was only the first step")
   3. Steve's homework cloud diagrams (correctly cut — Darth does the same job)
 
-### Part 2a flavour/character audit
+### Part 2a flavour/character audit (~10:15)
 - Compared all original chapters 22-34 for joy, humour, character, visual texture
 - Condensed version already surprisingly rich — most key flavour moments survived condensing
 - Gaps identified in three areas:
@@ -62,7 +62,7 @@
   3. **Steve's private vulnerability** — desperation visible but inner fidgeting missing
 - Created `Part Two Editorial Brief.md` with prioritized recommendations (Tier 1/2/3)
 
-### Part 2a rework — editorial changes applied
+### Part 2a rework — editorial changes applied (~10:30)
 - Created `Part Two - Working Draft.md` with all changes applied
 - **Two structural fixes:**
   1. Requirements chapter: added resistance throughout (air quotes, fighting his voice, banging fist, sulking, "playing word games," "an estimate/same thing," "rightish" via defiant smile, jaw drop + "Few do")
@@ -98,15 +98,15 @@
   - Physical transition into Dog Food chapter (folder thunk, Craig leading)
   - Cheryl's laugh at grandmother's cabbage (warmth)
 
-### Commits
+### Commits (~10:40)
 3. `4c16701` — Session Log + Part Two Editorial Brief
 4. `102a519` — Part Two Working Draft with all editorial changes
 
-### Parts 1-3 Combined file
+### Parts 1-3 Combined file (~11:00)
 - Created `Parts 1-3 Combined.md` for fresh-eyes review in another chat
 - Contains Part One (from main manuscript) + Part Two + Part Three/Midpoint (from working draft)
 
-### Fresh-eyes feedback (from another Claude session)
+### Fresh-eyes feedback — from another Claude session (~12:00)
 - **Positives:** Opening strong, Steve feels real, pacing through Part One genuinely good, Craig's napkin scene best teaching moment, inverted pyramid reveal lands, reads like a real novel not a business book
 - **Issues identified:**
   1. French Fry Revelation over-explained (told three times) — **FIXED**: cut Steve's restatement and "may contain nuts" joke
@@ -118,7 +118,7 @@
 - **Pushed back on:** Steve walking out on Cheryl (setup, not stall), Phil as plant, team neatness
 - Changes applied to: working draft, main manuscript, AND combined file
 
-### Additional uncommitted edits (not logged by previous session)
+### Additional edits — not logged by previous session (~12:30)
 These changes were found in the working tree but not recorded in the Session Log:
 1. **Norbert's threat via Craig** — new beat at start of Dog Food chapter: Craig delivers Norbert's message ("If you walk out on me this time, call him. He said he'll fly here and take over your job himself"). Steve flinches.
 2. **Steve's Norbert callback** — "He tried to help. Drew some diagrams, took me to the cafeteria to show me something. But I walked out. I wanted practical answers, not napkins." (replaces vague old line, ties to walking-out setup)
@@ -129,7 +129,24 @@ These changes were found in the working tree but not recorded in the Session Log
 7. **Craig phone callback** — split "Craig told Steve to hold" into a hang-up and call-back (more natural)
 8. **"ended abruptly"** — minor wording fix in Steve's apology to Craig
 
-### Status
-- All above changes are UNCOMMITTED against commit `102a519`
-- Changes affect: `Rolling Rocks Downhill - Condensed!.md`, `Part Two - Working Draft.md`, `Session Log.md`
-- Obsidian settings files also changed (not content-relevant)
+### Commits
+5. `56c930c` (2026-03-03 ~10:54) — Fresh-eyes fixes + Part Two tightening + Session Log catch-up
+
+---
+
+## 2026-03-03 ~10:30
+
+### Session maintenance
+- Found 8 uncommitted edits from previous session (logged above)
+- Committed and pushed all changes
+- Updated CLAUDE.md with Session Startup rules (read memory + Session Log before doing anything, tell Clarke where things stand)
+- Added rule: always update Session Log after every decision, change, or commit
+- Added timestamps to all Session Log entries
+- Set up `cc` alias to auto-restart remote-control sessions (no more walking to Mac Studio)
+
+### Still open
+- Mermaid diagram for the cloud is placeholder — Clarke will have a proper image for publication
+- CorkScrew Solutions footnote to add later
+- Editorial feedback's 8 expansion priorities still to work through (Egyptian Revelation scene is #1)
+- "Darth" could become a recurring callback throughout the book — not yet added
+- Requirements chapter still feels Socratic despite resistance added — may need further work

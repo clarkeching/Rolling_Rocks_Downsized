@@ -1,35 +1,47 @@
-# Rolling Rocks Downhill
+# Rolling Rocks Downsized — Condensed Rewrite
 
-This is Clarke's book project. The goal is to condense the full book into a shorter version.
+## About Clarke
+- Not a developer. Explain things in plain language.
+- Prefers action over questions. Just do the thing, don't ask permission for every step.
+- If something breaks, fix it. Don't present options — pick the best one and do it.
+
+## Project
+Condensing the 73k-word business novel "Rolling Rocks Downhill" into ~20-25k words. Commercial product Clarke will sell. Title: "Rolling Rocks Downsized."
+
+## Session Startup
+At the start of every session, BEFORE doing anything else:
+1. Read `Session Log.md` — this is the source of truth for what was done, what's open, and what to do next.
+2. Tell Clarke what you know — briefly summarise where things stand so he can confirm or redirect.
 
 ## Key Files
-- `Rolling Rocks Downhill Complete.md` - The full original book
-- `Rolling Rocks Downhill - Condensed.md` - The condensed version in progress
-- `Act 1-3 Summary.md` files - Summaries of each act
-- `Characters/` - Character profiles
-- `Concepts/` - Key concepts from the book
-- `Full Text/` - Individual chapters
+- `Rolling Rocks Downhill Complete.md` — the full original book (NEVER modify)
+- `Rolling Rocks Downhill - Condensed!.md` — the main manuscript
+- `Part Two - Working Draft.md` — working draft for Part Two edits
+- `Session Log.md` — session-by-session log of all decisions, changes, commits
+- `Editorial Feedback - Rolling Rocks Downsized.md` — editorial notes and expansion priorities
+- `Part Two Editorial Brief.md` — Part Two specific editorial recommendations
+- `Steve's Lightbulb Moments.md` — extracted appendix content
+- `Full Text/` — individual original chapters
+- `Characters/` — character profiles
+- `Concepts/` — key concepts
 
 ## Rules
-1. **Always commit before making changes** - Run `git add -A && git commit -m "backup"` before editing
-2. **Ask before deleting** - Never delete files without explicit permission
-3. **Preserve the original** - Never modify `Rolling Rocks Downhill Complete.md`
-4. **Work on the condensed version** - Edits should go in `Rolling Rocks Downhill - Condensed.md`
+- Always update `Session Log.md` after every decision, change, or commit. Include timestamps (e.g. `### Thing I did (~14:30)`).
+- Always commit and push after making changes. Use descriptive commit messages.
+- Never modify `Rolling Rocks Downhill Complete.md`.
+- Don't ask Clarke to run scripts — run them yourself.
+
+## Key Decisions (already made)
+- **Voice**: Third person (original is first person)
+- **Vibe**: "The movie version" — a 2-hour experience, not a 7-hour read
+- **Keep**: Humour, silly names, character moments, four pivots, Steve's emotional arc
+- **Don't teach**: Evaporating Cloud — replaced with 2x2 grid (speed vs quality) and "Darth" (the conflict cloud)
+- **Cross-promote**: "The Bottleneck Rules" and "CorkScrew Solutions"
+- The `> [!abstract] Chapter Summary` callout boxes are Clarke's navigation aids. Leave them alone.
 
 ## Location
-- **GitHub (source of truth):** `github.com/clarkeching/Rolling_Rocks_Rewrite`
-- **Mac local clone:** `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Rolling_Rocks_Rewrite`
-- **iPad:** Working Copy → Obsidian
-
-## Git Commands
-- Save your work: `git add -A && git commit -m "description"`
-- Undo all changes: `git checkout .`
-- See what changed: `git diff`
-- Always push after committing: `git push origin main`
-- Always pull before starting work: `git pull origin main`
+- **GitHub:** `github.com/clarkeching/Rolling_Rocks_Rewrite`
+- **Local:** `~/Documents/Obsidian/Rolling_Rocks_Downsized`
 
 ## NotePlan
-Daily notes are at:
-`~/Library/Containers/co.noteplan.NotePlan3/Data/Library/Application Support/co.noteplan.NotePlan3/Calendar/YYYYMMDD.md`
-
-To append to today's note, use the current date format (e.g., 20260208.md for February 8, 2026).
+Daily notes: `~/Library/Containers/co.noteplan.NotePlan3/Data/Library/Application Support/co.noteplan.NotePlan3/Calendar/YYYYMMDD.md`
