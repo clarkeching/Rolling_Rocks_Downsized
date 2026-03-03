@@ -153,21 +153,21 @@ These changes were found in the working tree but not recorded in the Session Log
 
 ---
 
-## 2026-03-04 ~08:30
+## 2026-03-04
 
-### Vault moved from iCloud to Documents folder (~08:30)
+### Vault moved from iCloud to Documents folder (2026-03-04 ~08:20)
 - Obsidian vault moved from `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Rolling_Rocks_Rewrite` to `~/Documents/Obsidian/Rolling Rocks Downsized`
 - Now syncing via Obsidian Sync instead of iCloud
 - GitHub repo renamed from `Rolling_Rocks_Rewrite` to `Rolling_Rocks_Downsized`
 
-### Git reconnected (~08:35)
+### Git reconnected (2026-03-04 ~08:31)
 - `.git` directory didn't survive the move — reinitialised git in new location
 - Connected to GitHub via HTTPS (SSH keys not configured, HTTPS works)
 - Restored full commit history from remote with `git reset origin/main`
 - Restored `.gitignore` that was lost in the move
 - Committed and pushed current state
 
-### Aliases and config updated (~08:45)
+### Aliases and config updated (2026-03-04 ~08:43)
 - Updated `rr` alias in `~/.zshrc` to point to new vault location
 - Updated remote URL from `Rolling_Rocks_Rewrite` to `Rolling_Rocks_Downsized`
 - Updated local path in `CLAUDE.md`
