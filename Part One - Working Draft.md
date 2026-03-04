@@ -466,6 +466,8 @@ Craig was late-fifties, tieless, and looked like a man who climbed mountains for
 
 They grabbed brunch from the counter—Steve had fruit, yogurt and a single strip of bacon; Craig had bacon and eggs and green tea—and sat at a table near the back.
 
+Steve had a hundred things he'd rather be doing, and an overflowing inbox upstairs that gave him a perfectly good excuse to walk away at any point. But Norbert had asked him twice now, and ignoring Norbert twice was not a career-enhancing move. So here he was: brunch with the quality guy. He'd give it twenty minutes.
+
 After shaking hands, Craig said that Norbert had briefed him on Steve’s situation. “But I don’t want Norbert’s version. I want yours. Do you mind if I ask you some questions? They might seem basic.”
 
 “Go ahead.”
