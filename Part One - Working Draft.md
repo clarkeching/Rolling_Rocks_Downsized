@@ -7,7 +7,7 @@
 
 So let me tell you about Steve Abernethy.
 
-It's 5:26 in the morning on the first Thursday in August, and Steve's sitting in Luca's café in Watt's Bridge, Scotland—jet-lagged, freshly back from Singapore, working through step one of his three-step recovery routine.
+It's 5:26 in the morning on the first Thursday in August, and Steve Abernathy is sitting in Luca's café in Watt's Bridge, Scotland—jet-lagged, freshly back from Singapore, working through step one of his three-step recovery routine.
 
 Step one: espresso. Step two: bacon. Step three: work.
 
