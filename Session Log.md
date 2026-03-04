@@ -338,3 +338,39 @@ Clarke wanted breathing room between the teaching sessions and Part Three. Added
 - Editorial expansion priorities
 - Darth callbacks
 - Requirements chapter Socratic feel
+
+---
+
+## 2026-03-04 ~10:30
+
+### Part Two outline created (~10:30)
+- Read all original Part Two chapters (22-33) plus midpoint (34-35) against the current condensed draft
+- **Core diagnosis:** current draft preserves teaching, cuts charm. Should be the other way around.
+- **Biggest gap:** Chapter 30 (Steve's drive home, family evening, Mom conversation) is entirely missing from the condensed version — this is the emotional heart of Part Two
+- **Biggest excess:** "Requirements Are Really Forecasts" at 1,134 words is the longest chapter and still feels Socratic
+- Created `Part Two Outline.md` with 11-chapter structure, estimated ~5,950 words total
+- Key changes vs current draft:
+  1. **"Home" chapter restored** (~500 words) — Ashley's bedtime, Alison's joke, Mom's risotto, Mom's job security conversation
+  2. **Norbert phone call enriched** — backstory about Fran, mentor relationship, family stakes
+  3. **"Requirements" compressed** from 1,134 → ~700 words — teaching trimmed, Steve's resistance preserved
+  4. **Dog Food handled as brief callback** — since other session is moving it into Part 1
+  5. **"It Worked" expanded slightly** — Catherine's formal verdict, windows rattling, pace warning
+- Outline assumes Part 1 Dog Food move is complete (Steve already knows the story when Part 2 starts)
+- Clarke to review before any writing begins
+
+### Part Two rewritten (~11:30)
+- Clarke approved the outline and gave the go-ahead to write
+- Rewrote `Part Two - Working Draft.md` from scratch based on the outline
+- **Structural changes vs previous draft:**
+  1. **Story So Far box fixed** — no longer says "Steve walked out on." Now reflects Part 1 accurately: Craig offered to help, Steve thanked him and left. "Nice story. Wrong industry."
+  2. **Dog Food chapter deleted** — Steve already knows the story from Part 1. French Fry Revelation opens with Cheryl callback: "You again?" / "I should have stayed for the French Fries."
+  3. **"Don't Think About Small Batches" merged into Ten Minutes** — was too thin as a standalone chapter. Key beats (Norbert's threat, wedding, "Excellent!" boom, small batches instruction) now flow naturally from the cafeteria meeting
+  4. **"Home" chapter added** (~500 words) — Steve drives home, Ashley's bedtime negotiation (pink fairy books), Alison's chocolate mousse joke, Mom's risotto, Mom's conversation about job security ("Wyxcomb will never be as loyal to you as you are to it")
+  5. **Norbert phone call enriched** — now includes the Fran backstory (transferred from Glasgow after she died), "parted on good terms" (Craig kept his promise), "He couldn't help me with FPP, he wanted to help me prevent my next FPP," head in hands, five long minutes
+  6. **"Requirements" trimmed** — cut from ~1,134 to ~700 words. Same key beats (air quotes, face felt hot, word games, packing peanuts, jaw drop / "Few do") but less Socratic back-and-forth. Removed the 2x2 grid/Darth callback section and the dart board metaphor
+  7. **"It Worked" expanded** — Catherine's formal verdict ("I am delighted with what I have seen"), windows rattling as everyone breathes out, Catherine's pace warning (20% time / 10% scope), Tim's bicycle metaphor, Craig still on vacation
+  8. **Cloud/Darth callback preserved** in Ten Minutes chapter (Craig asks "The cloud we drew. Has anything changed?")
+  9. **Camilla callback preserved** in Small Batches Click (Steve grabs his phone, remembers Fran named it)
+  10. **Fowl Mood expanded slightly** — added "worse, Steve was doing exactly what his predecessors would have done" and moved printer email to end of chapter for better flow
+- **Chapter count:** 11 chapters (was 13 in previous draft including separate Dog Food, Don't Think About Small Batches, Heart Attack Survivor, and Transaction Complete chapters)
+- Working in parallel with another session editing Part 1 / Cheryl chapters — no file conflicts
