@@ -303,3 +303,38 @@ Clarke wanted breathing room between the teaching sessions and Part Three. Added
 - Editorial feedback's 8 expansion priorities still to work through
 - "Darth" callbacks throughout the book — not yet added
 - Requirements chapter still feels Socratic
+
+---
+
+## 2026-03-04 ~09:30
+
+### Rewrite rejected — rolled back (~09:30)
+- Clarke said the Dog Food rewrite wasn't much better — it was a paraphrase, not a genuine improvement
+- **Key lesson: Don't wholesale rewrite. Tighten what's there.**
+- Reverted manuscript to pre-Dog-Food state (commit `6719e75~1`)
+- "You Look Like a Dork" is back to ~48 lines where Steve doesn't hear the Dog Food story
+
+### New workflow decided (~09:45)
+- **No single master manuscript file** — the book lives as separate Part files
+- `Rolling Rocks Downhill - Condensed!.md` becomes reference only, not to be edited
+- Work part-by-part sequentially in working draft files
+- Created `Part One - Working Draft.md` (extracted lines 2-786 from manuscript)
+- Created `Cheryl Chapters - Working Draft.md` for iterating on the Cheryl/cafeteria scenes
+- Clarke reviews as we go — "do a bit, then ask me what I think"
+
+### Dog Food move — take two (~10:00)
+- Decision still stands: Dog Food story moves into Part 1 ("You Look Like a Dork")
+- Steve hears the story during his first visit, but leaves genuinely unconvinced — not rude, not distracted
+- His objection: "Nice story. Wrong industry." He can't bridge the gap between a kitchen and 47 million lines of code
+- Working iteratively in `Cheryl Chapters - Working Draft.md`, will transfer to Part One when approved
+
+### Still open
+- Dog Food move into Part 1 — drafting now
+- Part 2 will need adjustment once Dog Food moves (Steve already knows the story when he returns)
+- Rest of manuscript originality audit
+- Maggie Keane in later scenes
+- Mermaid diagram placeholder
+- CorkScrew Solutions footnote
+- Editorial expansion priorities
+- Darth callbacks
+- Requirements chapter Socratic feel
