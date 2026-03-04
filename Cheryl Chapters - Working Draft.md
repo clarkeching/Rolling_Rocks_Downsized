@@ -171,7 +171,7 @@ She nodded.
 
 Steve said, "I think we already do that, though. My team does extensive in-process inspections throughout our development process."
 
-Cheryl shook her head. "Craig told me earlier that your teams still spend thirty percent of every project finding and fixing broken things. That should be almost zero. Whatever you're doing Steve, it's not working."
+Cheryl shook her head. "Craig told me earlier that your teams still spend forty percent of every project finding and fixing broken things. That should be almost zero. Whatever you're doing Steve, it's not working."
 
 Steve felt his jaw tighten, but he said nothing. What could Cheryl possibly know about software development?
 
