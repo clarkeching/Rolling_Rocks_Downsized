@@ -67,19 +67,23 @@ The worst part was that he couldn't un-see the cloud. Darth was real. And Steve 
 
 ---
 
-## You Look Like a Dork — Draft v2 (Dog Food moved in)
+## You Look Like a Dork — Draft v2 (superseded by v3)
+
+*(See v3 below)*
+
+---
+
+## You Look Like a Dork — Draft v3
 
 Craig led Steve down to the cafeteria kitchen.
 
-"The cafeteria?"
+"The cafeteria?" Steve glanced at his watch. "Craig, I appreciate this, but I've got a meeting upstairs in ten minutes. I'm not being rude—I just need to be back."
 
-Craig smiled and pushed through the swing door. He waved to one of the servers—a burly guy in the cafeteria staff's all-black uniform and a chef's hat, slicing through a roasted beef joint with a large carving knife. "How you doing, Randall?"
+Craig smiled. "Ten minutes is plenty."
 
-"Aye, grand, Craig. Cheryl's in the kitchen. She's expecting you."
+He pushed through the swing door and led Steve into the kitchen, where a thin, short, middle-aged woman was pacing with a clipboard, talking on a portable phone. She spotted Craig, smiled broadly, and mouthed *two minutes*. It sounded like she was ordering vegetables for tomorrow.
 
-Craig led Steve through to the back, where a thin, short, middle-aged woman was pacing with a clipboard, talking on a portable phone. She spotted Craig, smiled broadly, and mouthed *two minutes*. It sounded like she was ordering vegetables for tomorrow.
-
-While they waited in a small office, Craig explained. "Like I said, my new boss wanted me to help outsource the cafeteria. But I'd just watched a lot of friends lose their jobs to offshoring and I didn't fancy doing the same to this lot. So I helped the cafeteria team turn their operation around—made it so good that outsourcing no longer made sense."
+While they waited, Craig explained. "My new boss wanted me to help outsource the cafeteria. But I'd just watched a lot of friends lose their jobs to offshoring and I didn't fancy doing the same to this lot. So I helped the kitchen team turn their operation around—made it so good that outsourcing no longer made sense."
 
 He paused. "The kitchen is just a small factory. It had two classic problems: a quality problem they call their Dog Food Problem, and a flow problem they call the French Fry Revelation."
 
@@ -101,11 +105,11 @@ Steve felt his face redden. "Something like that."
 
 She said it in such a nice but firm way that Steve did as he was told.
 
-Cheryl gave him a quick tour of the kitchen—the back door where fresh ingredients arrived each morning, a walk-in chiller they stepped into and quickly back out of again (it was cold), her team chopping and stirring as they prepared for the lunch rush. The air was thick with onions frying. She pushed through the swinging doors to the serving area, where Randall's carved beef and a pork roast sat under heating lamps.
+Cheryl gave him a quick tour of the kitchen—the walk-in chiller they stepped into and quickly back out of (it was cold), her team chopping and stirring, the air thick with onions frying. She pushed through the swinging doors to the serving area.
 
 "We serve hundreds, sometimes thousands, of meals each day. I've seen you in the queue, Steve."
 
-He said he recognised her too. She seemed pleased about that. She called him a newbie—he'd been at Wyxcomb nineteen years; she'd been in the canteen for twenty-eight.
+He said he recognised her too. She seemed pleased about that.
 
 "So," Cheryl said. "Up until about three years ago, our food was barely fit for human consumption. You wouldn't feed it to a dog. Well—not a posh dog. A stray would eat it if there were no alternatives. We called it our Dog Food Problem."
 
@@ -151,29 +155,29 @@ Steve nodded. That was just common sense.
 
 "Within two weeks, we'd transformed the quality of our food. Word travels fast when there's good food within walking distance—we were soon serving nearly twice as many customers, costs dropped, and the threat to replace us disappeared." She smiled. "And that was the first time I truly enjoyed working here."
 
-She glanced at Craig. "There's more—we haven't got to the French Fries yet—but that'll keep for another day."
+Steve said, "We already do that, though. My team does extensive in-process inspections throughout our development process."
 
-Steve thanked her, and he meant it. "Not just for now, but for saving this place. The food, the service—they're much better than they used to be. And now I know why."
+Cheryl raised an eyebrow. "So how long does your testing phase last? After all those inspections?"
 
-Cheryl's smile faded. "You do realise you haven't heard the full story? You need the French Fry Revelation before it makes sense."
+"About thirty percent of every project."
 
-"I know," Steve said softly. "But I need to get back."
+Cheryl let out a low whistle. "Thirty percent? After all that inspection, you still spend a third of your time finding and fixing broken things?"
+
+Steve said nothing. When she put it like that, it did sound bad.
+
+Cheryl studied him for a moment. "That was just the quality side. The French Fry Revelation is the other half—it ties everything together. You need to hear it."
+
+Steve glanced at his watch. His ten minutes were up.
+
+"I'm sorry, Cheryl. I really am. But I have to get back."
 
 She made a face, as if she'd smelled something bad. "We'll see," she said, and walked off without saying goodbye.
 
-Craig walked Steve back towards the lifts without speaking. Steve broke the silence.
+Craig walked Steve back towards the lifts.
 
-"I appreciate what you're doing, Craig. I do. The picture you drew upstairs—that was bang on. But I can't compare a kitchen with a software development organisation. We're just too different."
+"Thank you," Steve said. "Seriously. You've given me a lot to think about. I promise I'll get back to you—I just can't do it straight away."
 
-Craig's face lit up, as though Steve had said something interesting rather than dismissive. "Tell me more about that."
-
-Steve shook his head. "My team manages forty-seven million lines of code. Six million customers. Print out a Boeing 747's schematics and weigh them—my code base would be heavier. You can't compare that with soup."
-
-Craig tilted his head. "So your industry's problem is that you build software using a model designed for manufacturing—for *cooking* recipes—when what you actually do is *develop* recipes?"
-
-Steve kept his face neutral. He saw what Craig was doing—trying to open a gap he could only fill by staying. "Another time, maybe."
-
-"Maybe. Maybe not." Craig smiled, showing no grudge. "I'll tell Norbert we had a useful conversation."
+"I know," Craig said. He smiled, showing no grudge. "I'll tell Norbert we had a useful conversation."
 
 They shook hands, and Steve put his tie back on.
 
@@ -181,7 +185,7 @@ He left feeling discombobulated. That was the only word for it. Craig had calmly
 
 *What if.* Right. Very helpful. He'd get that printed on a T-shirt.
 
-And Cheryl—she'd told him a genuinely impressive story. Soup nobody tasted. Rules that were designed to be idiot-proof but only proved the bosses were the idiots. A turnaround built on two words: *eat it yourself*. He could see the logic. He just couldn't see how any of it scaled to what he did for a living.
+And Cheryl—she'd told him a genuinely impressive story. Soup nobody tasted. Rules designed to be idiot-proof that only proved the bosses were the idiots. A turnaround built on two words: *eat it yourself*. He could see the logic. He just couldn't see how any of it scaled to what he did for a living.
 
 Nice story. Wrong industry.
 
