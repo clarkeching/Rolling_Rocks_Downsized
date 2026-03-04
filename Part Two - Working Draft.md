@@ -1,12 +1,12 @@
-# Part Two: Learning the Tools — Working Draft
+# Part Two: Out of Moves — Working Draft
 
 > [!info] The Story So Far
 > *Pauline's betrayal set off a chain reaction. First, Steve's team scrambled to match Chaste's April 1st launch. Then CEO Halifax Gibbet promised to beat them—pulling the deadline forward to February 1st. Then Chaste moved their own date to February. And Hal, never one to back down, issued a press release announcing December 1st.*
->
+> 
 > *Steve has pulled every lever he knows: slashed features, cancelled the web app, pushed overtime, cut quality standards. His team mutinied. His staff don't believe the date is achievable. His boss has threatened his job.*
->
+> 
 > *Craig Lally, the quality guy from upstairs, offered to help him work differently. He drew Steve's dilemma on a napkin, took him to the cafeteria kitchen to meet Cheryl, and showed him two things: the shape of his own trap, and a story about soup that nobody tasted. Steve was polite, but unconvinced. Nice story. Wrong industry. He thanked Craig and left.*
->
+> 
 > *He's out of moves.*
 
 ## Fowl Mood
