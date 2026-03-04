@@ -328,9 +328,19 @@ Clarke wanted breathing room between the teaching sessions and Part Three. Added
 - His objection: "Nice story. Wrong industry." He can't bridge the gap between a kitchen and 47 million lines of code
 - Working iteratively in `Cheryl Chapters - Working Draft.md`, will transfer to Part One when approved
 
+### Dog Food chapter — drafts v2→v3→final (~10:00–11:30)
+- v2: full Dog Food story moved in, Steve hears it, leaves politely ("Nice story. Wrong industry")
+- Clarke feedback: too long, cut Randall, shorten kitchen tour, need natural exit
+- v3: added ten-minute clock at start, 40% sting (Steve pushes back, Cheryl stings), Cheryl's graceful exit
+- Clarke edits: "I remember that. It was like night and day" (Steve remembers food improving), Craig briefed Cheryl on 40%, "Sounds expensive", "We're a good team", jaw tighten beat
+- Clarke rewrote closing: "recombulated" joke, testing/tasting seed, cut Darth/What if ending
+- Cheryl's exit: "I understand. You know where to find me, when the time is right."
+- Fixed percentage to 40% to match Quality and Speed chapter (Norbert's number)
+- Moved final version into `Part One - Working Draft.md`
+- Checked continuity with chapters before (Quality and Speed) and after (The Mutiny) — clean
+
 ### Still open
-- Dog Food move into Part 1 — drafting now
-- Part 2 will need adjustment once Dog Food moves (Steve already knows the story when he returns)
+- Part 2 will need adjustment now that Dog Food is in Part 1 (Steve already knows the story when he returns)
 - Rest of manuscript originality audit
 - Maggie Keane in later scenes
 - Mermaid diagram placeholder
