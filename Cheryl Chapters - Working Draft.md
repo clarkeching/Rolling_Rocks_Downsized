@@ -143,7 +143,7 @@ Steve blinked. "Nobody?"
 
 "Craig threatened our jobs—that gave us a reason to worry. Then he made us eat our own food—that gave us a reason to *care*." She pointed to some of her team on the other side of the room, putting fresh flowers on the dining tables. "First thing we all did was start tasting before serving. Sometimes a little salt fixed it. Sometimes we had to throw a batch out and start again."
 
-Steve said, "That's expensive."
+Steve frowned. "Sounds expensive."
 
 Craig said, "Not as expensive as having no customers."
 
@@ -187,20 +187,20 @@ Craig walked Steve back towards the lifts.
 
 "You use the cafeteria as your training ground."
 
-"Over the years I've trained dozens of leaders from across the group.  Cheryl and I have, that is."
+"Over the years I've trained dozens of leaders from across the group.  Cheryl and I have, that is. We're a good team."
 
 "Thank you," Steve said. "Seriously. You've given me a lot to think about. I promise I'll get back to you—I just can't do it straight away."
 
 "I know," Craig said. He smiled, showing no grudge. "I'll tell Norbert we had a useful conversation."
 
-They shook hands, and Steve put his tie back on.
+They shook hands, and Steve put his tie back on, and headed to the lifts.
 
-He left feeling discombobulated. That was the only word for it. Craig had calmly, methodically shown him the shape of his own trap, pointed at an empty box on a napkin, and said "What if?"
+He left feeling discombobulated. That was the only word for it. He hoped that by the time he reached his desk he'd be recombulated. He already had too many thoughts in his head.
 
-*What if.* Right. Very helpful. He'd get that printed on a T-shirt.
-
-And Cheryl—she'd told him a genuinely impressive story. Soup nobody tasted. Rules designed to be idiot-proof that only proved the bosses were the idiots. A turnaround built on two words: *eat it yourself*. He could see the logic. He just couldn't see how any of it scaled to what he did for a living.
+Cheryl had told him a charming, and in its own little way, impressive story. Soup nobody tasted. Rules designed to be idiot-proof that only proved the bosses were the idiots. A turnaround built on the words: *eat it yourself*. He could see the logic. He just couldn't see how any of it scaled to what he did for a living.
 
 Nice story. Wrong industry.
 
-The worst part was that he couldn't un-see the cloud. Darth was real. And Steve had no idea how to fight him.
+The lift dinged, and as he stepped in and pressed the button for the sixth floor, he suddenly thought to himself how odd it was that the words testing and tasting sounded so similar. Perhaps they shared some common root.  Who knew?
+
+Then again: Who cared?
