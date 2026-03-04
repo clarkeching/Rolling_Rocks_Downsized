@@ -384,3 +384,21 @@ Clarke wanted breathing room between the teaching sessions and Part Three. Added
   10. **Fowl Mood expanded slightly** — added "worse, Steve was doing exactly what his predecessors would have done" and moved printer email to end of chapter for better flow
 - **Chapter count:** 11 chapters (was 13 in previous draft including separate Dog Food, Don't Think About Small Batches, Heart Attack Survivor, and Transaction Complete chapters)
 - Working in parallel with another session editing Part 1 / Cheryl chapters — no file conflicts
+
+### Parts 3-4 outline created (~23:00)
+- Read all original chapters 36-61 via background agent research (118k characters of detailed notes)
+- Created `Parts 3-4 Outline.md` covering everything from chapter 36 to the end
+- **Two proposed parts:**
+  - **Part Four: Transformation Under Fire** (10 chapters, ~6,150 words) — covers original chapters 36-58
+  - **Part Five: Resolution** (2 chapters, ~1,200 words) — covers original chapters 59-61
+- **Estimated total: ~7,350 words** — puts full book at ~20,500 words (inside 20-25k target)
+- **Key structural decisions:**
+  1. Bottleneck taught through Cheryl only — Gregor's MBA/TOC chapter (43) cut entirely
+  2. Chapters 42-46 compressed into one "Slam Dunk" chapter (~900 words) — keeps Catherine's "Surname" / "You arse" / "No way!" moments
+  3. "Gravity didn't always suck" preserved as micro-chapter (~150 words) — book-title payoff
+  4. Chapters 54-58 compressed into one "Walk Before You Run" chapter (~1,000 words) — merges messaging crisis, Catherine drowning, pig/ribbon, Riverdance launch, baby Hamish
+  5. Resolution gets its own Part — "The Dream Job" + "Bacon Sandwich" need silence and space
+  6. Web app origin story (Ch 53) cut — mentioned briefly in Walk Before You Run instead
+- **12 chapters total** across Parts 4 and 5
+- Same writing principles as Part Two: compress teaching not charm, fresh prose same beats, show don't summarise
+- Clarke to review before any writing begins
