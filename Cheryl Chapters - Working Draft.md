@@ -111,7 +111,7 @@ Cheryl gave him a quick tour of the kitchen—the walk-in chiller they stepped i
 
 He said he recognised her too. She seemed pleased about that.
 
-"So," Cheryl said. "Up until about three years ago, our food was barely fit for human consumption. You wouldn't feed it to a dog. Well—not a posh dog. A stray would eat it if there were no alternatives. We called it our Dog Food Problem."
+"So," Cheryl said. "Up until about three years ago, our food was barely fit for human consumption. You wouldn't feed it to a dog. We called it our Dog Food Problem."
 
 She folded her arms. "Our bosses said the food cost too much and the customers hated it. They wanted to replace us with a commercial catering operation. They were right about the problem. Wrong about the cure."
 
@@ -141,7 +141,9 @@ Steve blinked. "Nobody?"
 
 "So what changed?"
 
-"Craig threatened our jobs—that gave us a reason to worry. Then he made us eat our own food—that gave us a reason to *care*." She pointed to some of her team on the other side of the room, putting fresh flowers on the dining tables. "First thing we did was start tasting before serving. Sometimes a little salt fixed it. Sometimes we had to throw a batch out and start again."
+"Craig threatened our jobs—that gave us a reason to worry. Then he made us eat our own food—that gave us a reason to *care*." She pointed to some of her team on the other side of the room, putting fresh flowers on the dining tables. "First thing we all did was start tasting before serving. Sometimes a little salt fixed it. Sometimes we had to throw a batch out and start again."
+
+Steve said, "That's expensive."
 
 Craig said, "Not as expensive as having no customers."
 
@@ -153,27 +155,39 @@ Cheryl nodded. "In practice? We started checking ingredients *before* putting th
 
 Steve nodded. That was just common sense.
 
-"Within two weeks, we'd transformed the quality of our food. Word travels fast when there's good food within walking distance—we were soon serving nearly twice as many customers, costs dropped, and the threat to replace us disappeared." She smiled. "And that was the first time I truly enjoyed working here."
+"Within two weeks, we'd transformed the quality of our food."  
 
-Steve said, "We already do that, though. My team does extensive in-process inspections throughout our development process."
+Steve smiled. "I remember that. It was like night and day."
 
-Cheryl raised an eyebrow. "So how long does your testing phase last? After all those inspections?"
+"It was. And word travels fast when there's good food within walking distance—we were soon serving nearly twice as many customers, our costs dropped, and the threat to replace us disappeared."
 
-"About thirty percent of every project."
+Steve glanced at Craig, who confirmed Cheryl's story with a workmanlike nod.
 
-Cheryl let out a low whistle. "Thirty percent? After all that inspection, you still spend a third of your time finding and fixing broken things?"
+She smiled. "And that was the first time I truly enjoyed working here."
 
-Steve said nothing. When she put it like that, it did sound bad.
+Steve said, "In process inspections?"
 
-Cheryl studied him for a moment. "That was just the quality side. The French Fry Revelation is the other half—it ties everything together. You need to hear it."
+She nodded.
+
+Steve said, "I think we already do that, though. My team does extensive in-process inspections throughout our development process."
+
+Cheryl shook her head. "Craig told me earlier that your teams still spend thirty percent of every project finding and fixing broken things. That should be almost zero. Whatever you're doing Steve, it's not working."
+
+Steve felt his jaw tighten, but he said nothing. What could Cheryl possibly know about software development?
+
+Cheryl studied him for a moment. "You're missing something, Steve. And I think I know what it is. I've just told you about our Dog Food Problem, but that's only half the story. The French Fry Revelation is the other half—it ties everything together. You need to hear it."
 
 Steve glanced at his watch. His ten minutes were up.
 
-"I'm sorry, Cheryl. I really am. But I have to get back."
+"I'm sorry, Cheryl. I really am. But I have meetings back to back, and I have to get back to my team."
 
-She made a face, as if she'd smelled something bad. "We'll see," she said, and walked off without saying goodbye.
+She nodded. "I understand. You know where to find me, when the time is right."
 
 Craig walked Steve back towards the lifts.
+
+"You use the cafeteria as your training ground."
+
+"Over the years I've trained dozens of leaders from across the group.  Cheryl and I have, that is."
 
 "Thank you," Steve said. "Seriously. You've given me a lot to think about. I promise I'll get back to you—I just can't do it straight away."
 
