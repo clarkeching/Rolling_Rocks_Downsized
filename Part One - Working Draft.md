@@ -5,6 +5,8 @@
 > [!abstract] Chapter Summary
 > *Steve, jet-lagged and eating bacon at 5:26am, learns from his best friend Phil that their former colleague Pauline has been poached by competitor Chaste—and she's helping them build a copycat of FPP.*
 
+*Thursday, August 3rd.*
+
 So let me tell you about Steve Abernethy.
 
 It's 5:26 in the morning on the first Thursday in August, and Steve Abernathy is sitting in Luca's café in Watt's Bridge, Scotland—jet-lagged, freshly back from Singapore, working through step one of his three-step recovery routine.
@@ -325,6 +327,8 @@ It felt good to be properly home.
 > [!abstract] Chapter Summary
 > *The team presents their War Room plan: a skeletal product with features force-ranked on sticky notes. Shockingly, they've descoped the web app entirely. Gregor announces compulsory overtime and cancelled holidays.*
 
+*Friday, August 4th.*
+
 The next afternoon, Steve returned to the War Room. The walls were covered with flip chart paper and Post-it notes, the table with printouts and coffee cups. A stack of empty pizza boxes sat at the back of the room. If work had an odor, then the room smelled of work.
 
 Steve placed a box of cookies on the table—baked by his mum and the girls the night before—and forced open a couple of windows.
@@ -460,7 +464,9 @@ She shook her head. "I never said he's an ogre. I said he's an arse, and I think
 > [!abstract] Chapter Summary
 > *Steve finally meets Craig Lally for brunch. Craig draws out Steve’s problem and sketches it on a napkin. Steve names it Darth.*
 
-A few days later, after another not-so-gentle prompt from Norbert, Steve finally met Craig Lally for brunch in the staff cafeteria.
+*Tuesday, August 8th.*
+
+After another not-so-gentle prompt from Norbert, Steve finally met Craig Lally for brunch in the staff cafeteria.
 
 Craig was late-fifties, tieless, and looked like a man who climbed mountains for pleasure and drove there in a twenty-year-old Volvo he maintained himself.
 
@@ -478,7 +484,7 @@ Craig pulled a pen from his shirt pocket and drew a napkin toward him. “What a
 
 “Of course.” Craig wrote something in a box at the top of the napkin. “And in order to succeed—what do you need? What are the two big things?”
 
-Steve almost laughed. “Well, obviously, we need to hit Hal’s deadline. December 1st. If we miss it, Chaste beats us to market and we’re dead.”
+Steve almost laughed. “Well, obviously, we need to hit Hal’s deadline. February 1st. We have to be selling before Chaste launches in April, or we’re dead.”
 
 “Naturally. What else?”
 
@@ -752,7 +758,9 @@ Then again: Who cared?
 > [!abstract] Chapter Summary
 > *Eleanor delivers Hal's ultimatum: ship on time or find a new job. Then Steve discovers his staff has walked out to the pub. Vrinda negotiates: they'll go back to work, but no compulsory overtime—and they'll slash features further.*
 
-A week later—mid-August now—it got worse. Steve should have worn goggles to work that day.
+*Wednesday, August 16th.*
+
+It got worse. Steve should have worn goggles to work that day.
 
 Eleanor appeared at Steve's office door at precisely 2:22 in the afternoon. She glanced at the two exchange staff he was meeting with, forced on a clearly false smile, and politely asked them to leave.
 

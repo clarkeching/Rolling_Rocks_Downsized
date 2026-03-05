@@ -14,7 +14,7 @@
 > [!abstract] Chapter Summary
 > *Steve chickens out of confronting Hal. Instead, he tells Gregor to cancel the compulsory overtime and cancelled vacations. Gregor asks: "What would you have done differently?" Steve has no answer.*
 
-*Late August.*
+*Wednesday, August 16th. Late afternoon.*
 
 Steve was in a fowl mood when he made it back to his desk. Yes, *fowl*, not foul. Somewhere between the second and fourth floors, the rational part of his brain clicked in. He turned into a big chicken and pushed the button for the sixth floor instead of the penthouse. He'd spent almost twenty years climbing the Wyxcomb ladder, and he wasn't about to throw that all away impulsively.
 
@@ -73,9 +73,9 @@ Steve waited a few seconds, then asked, "What should I do?"
 
 "You talked to your quality guy, Lally. Tell me how that went."
 
-Steve chose his words carefully. "He couldn't help me with FPP. That was, and still is, my priority. He wanted to help me prevent my *next* FPP."
+Steve chose his words carefully. "He drew some diagrams. Took me to the cafeteria to show me something. Interesting stuff, but I couldn't see how it applied to what we do."
 
-"I spoke to him. He said your conversation was brief, that you seemed reluctant to engage further but that you parted on good terms."
+"I spoke to him. He said you'd had a useful conversation but that you seemed reluctant to take things further."
 
 So Craig had kept his promise.
 
@@ -106,7 +106,7 @@ Five very long minutes passed. It felt like more. Eventually he looked up, force
 > [!abstract] Chapter Summary
 > *Steve swallows his pride and calls Craig, who reluctantly agrees to give him ten minutes. Craig's son is getting married this weekend and he's off the grid for three weeks. Norbert has a message: "If you walk out on me this time, call him. He'll fly here and take over your job."*
 
-Craig answered, then paused. "I didn't expect to hear from you again."
+Craig answered, then paused. "I was hoping you'd call."
 
 He sounded more distracted than surprised.
 
@@ -148,7 +148,7 @@ Craig told Steve to hold. Steve heard muffled conversation in the background. A 
 
 Steve dropped the FPP folder on the cafeteria table with a *thunk*. The cafeteria was mostly empty—a few evening shift workers in comfortable, casual clothes were queuing at the serving area for their subsidised dinners.
 
-Craig ignored the folder. "Norbert confirmed your job is at risk. He asked me to pass on a message." He placed his phone on the table. "If you walk out on me this time, call him. He said he'll fly here and take over your job himself."
+Craig ignored the folder. "Norbert confirmed your job is at risk. He asked me to pass on a message." He placed his phone on the table. "If you walk away from this, call him. He said he'll fly here and take over your job himself."
 
 Steve flinched. "He couldn't do my job."
 
@@ -565,7 +565,7 @@ He turned the page towards her and smiled. "There it is: the inverted pyramid."
 > [!abstract] Chapter Summary
 > *Three weeks later. Steve tells the team the truth: December is impossible the way they're working. He introduces the inverted pyramid—deliver the most important features first, each chunk "good enough to ship." Catherine resists, then takes charge.*
 
-*Three weeks later. Early September.*
+*Wednesday, September 6th.*
 
 Catherine clicked the *Finish* button and the cursor turned into an hourglass.
 
@@ -770,4 +770,4 @@ When just the two of them remained, Catherine said, "I just wish a month had alr
 
 "I know."
 
-Steve wished that Craig, who had inspired all of this, could have been there. But he was still on vacation.
+Steve wished that Craig, who had inspired all of this, could have been there to see it. He was due back any day.
