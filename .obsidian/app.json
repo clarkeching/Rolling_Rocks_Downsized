@@ -2,7 +2,7 @@
   "foldIndent": true,
   "showIndentGuide": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",

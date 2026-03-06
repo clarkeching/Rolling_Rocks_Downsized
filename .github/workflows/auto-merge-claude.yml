@@ -1,41 +1,39 @@
 name: Auto-merge Claude branches
 
 on:
-  create:
+  push:
+    branches:
+      - 'claude/**'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   merge:
-    if: github.event_name == 'workflow_dispatch' || (github.event.ref_type == 'branch' && startsWith(github.event.ref, 'claude/'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
+          token: ${{ github.token }}
 
-      - name: Merge claude branches into main
+      - name: Merge into main and clean up
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git fetch origin
 
-          BRANCHES=$(git branch -r --list 'origin/claude/*')
-          if [ -z "$BRANCHES" ]; then
-            echo "No claude branches found"
-            exit 0
-          fi
+          BRANCH="${GITHUB_REF#refs/heads/}"
+          echo "Merging $BRANCH into main..."
 
-          for BRANCH in $BRANCHES; do
-            BRANCH_NAME=${BRANCH#origin/}
-            echo "Merging $BRANCH_NAME into main..."
-            git checkout main
-            git pull origin main
-            if git merge "$BRANCH" --no-edit; then
-              git push origin main
-              git push origin --delete "$BRANCH_NAME"
-              echo "Merged and deleted $BRANCH_NAME"
-            else
-              echo "Merge conflict on $BRANCH_NAME — skipping"
-              git merge --abort
-            fi
-          done
+          if git merge "origin/$BRANCH" --no-edit; then
+            git push origin main
+            git push origin --delete "$BRANCH"
+            echo "Merged and deleted $BRANCH"
+          else
+            echo "Merge conflict on $BRANCH — skipping"
+            git merge --abort
+            exit 1
+          fi

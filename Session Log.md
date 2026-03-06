@@ -1,5 +1,18 @@
 # Session Log
 
+## 2026-03-07
+
+### Scene date markers added to Part One (~afternoon)
+- Clarke spotted that "## February 1st" chapter heading read like a time jump from August to February, when it's actually the deadline not the scene date
+- Investigated how the original book handles dates: standalone lines like `*Thursday, August 3rd.*` at the first chapter of each new day
+- Added missing scene date markers to Part One Working Draft:
+  - `*Monday, August 7th.*` added to Ron's Three Lists
+  - `*Tuesday, August 8th.*` moved from Darth to That Man Is an Arse (first chapter on that day)
+- Existing markers already correct: Thursday Aug 3rd (Bacon), Friday Aug 4th (Sticky-Note), Wednesday Aug 16th (Mutiny)
+- Tried adding FPP Launch Date markers (*FPP Launch Date: April 1st* etc.) at chapter starts but Clarke removed them — they spoiled the deadline reveals that land better through dialogue
+- **Decision**: Scene dates only. Deadline shifts stay in the story. Will extend scene dates to Part Two later.
+- Note: Also accidentally edited the Condensed file instead of the Working Draft at first — reverted that. Working Draft is the active file.
+
 ## 2026-03-02 ~09:00
 
 ### Picked up from overnight disconnect
@@ -402,3 +415,50 @@ Clarke wanted breathing room between the teaching sessions and Part Three. Added
 - **12 chapters total** across Parts 4 and 5
 - Same writing principles as Part Two: compress teaching not charm, fresh prose same beats, show don't summarise
 - Clarke to review before any writing begins
+
+---
+
+## 2026-03-05 ~09:00
+
+### Continuity audit + date markers (~09:00)
+
+Thorough read-through of Part One Working Draft, Part Two Working Draft, and full original novel (via background agent extracting all 33 specific clock times and every date header across 61 chapters).
+
+**Continuity errors found and fixed:**
+
+1. **MAJOR: "December 1st" in Darth chapter → fixed to "February 1st"** — Steve referenced December 1st during his brunch with Craig (~Aug 8th), but December 1st isn't announced until "Hal Declares War" (~Aug 16th). The deadline at the Darth meeting is still February 1st. Fixed in Part One Working Draft.
+
+2. **"Walk out on me this time" → "walk away from this"** — Norbert's message via Craig implied Steve had "walked out" on Craig, but in Part 1 they parted with a handshake and "Thank you. Seriously." Fixed in Part Two Working Draft.
+
+3. **Craig's "I didn't expect to hear from you again" → "I was hoping you'd call"** — The original line contradicted the warm parting in Part 1. Craig told Norbert they'd had a useful conversation. He wouldn't say he didn't expect Steve to call. Fixed in Part Two Working Draft.
+
+4. **Steve's description to Norbert** — Was: "He couldn't help me with FPP… He wanted to help me prevent my *next* FPP." But Craig WAS helping with the current FPP (drew Darth, showed Quality and Speed grid, took Steve to Cheryl). Changed to: "He drew some diagrams. Took me to the cafeteria to show me something. Interesting stuff, but I couldn't see how it applied to what we do." Matches Part 1's "Nice story. Wrong industry."
+
+5. **Norbert's "parted on good terms" → "had a useful conversation"** — Now matches Craig's Part 1 promise: "I'll tell Norbert we had a useful conversation."
+
+6. **"Late August" dateline on Fowl Mood → "Wednesday, August 16th. Late afternoon."** — Fowl Mood is the same day as the Mutiny (mid-August), not late August. Steve is literally in the lift, chickening out of confronting Hal.
+
+7. **Craig "still on vacation" in It Worked → "due back any day"** — Craig left Aug 17 for 3 weeks, making his return ~Sep 7. "It Worked" is Sep 6. "Still on vacation" technically works but "due back any day" is clearer.
+
+**Date markers added (from original novel's chapter headers):**
+
+Part One:
+- *Thursday, August 3rd.* — Bacon and Bad News
+- *Friday, August 4th.* — Sticky-Note Triage
+- *Tuesday, August 8th.* — Darth (replaces "A few days later")
+- *Wednesday, August 16th.* — The Mutiny (replaces "A week later—mid-August now")
+
+Part Two:
+- *Wednesday, August 16th. Late afternoon.* — Fowl Mood (replaces "Late August")
+- *Wednesday, September 6th.* — We Cannot Deliver on December 1st (replaces "Three weeks later. Early September")
+
+These create the countdown feel from the original: August → September → (Parts 3-4 will add October → November → December 1st looming).
+
+### Still open
+- Parts 3-4 not yet written (outline approved, Clarke to confirm before writing starts)
+- Mermaid diagram for the cloud is placeholder
+- CorkScrew Solutions footnote to add later
+- Editorial expansion priorities still to work through
+- "Darth" callbacks throughout the book — not yet added
+- Requirements chapter still feels Socratic
+- Thinning the Menu chapter referenced in Session Log but not in Part Two Working Draft file
