@@ -55,7 +55,7 @@ Then he leaves them alone with their food.
 
 Phil splashes water into his espresso to cool it, downs it in one gulp, eyes Steve's cup, and says, "You drinking that?" He grabs it and chugs that too, then shakes his face like a dog after a swim.
 
-Steve picks up a strip of crispy bacon—proper butcher's bacon, not the limp, apologetic kind you get from a supermarket—folds it into his mouth, and savours the salty, fatty crunch. The eggs are local and perfectly done. Step two of his recovery routine, and worth every air mile.
+Steve picks up a strip of crispy bacon—proper Belfast bacon, not the limp, apologetic kind—folds it into his mouth, and savours the salty, fatty crunch. The eggs are local and perfectly done. Step two of his recovery routine, and worth every air mile.
 
 "So," Steve says. "What's the bad news?"
 
@@ -120,7 +120,6 @@ She hung up.
 
 > [!abstract] Chapter Summary
 > *Eleanor delivers devastating news: CEO Halifax Gibbet has promised the launch date is now February 1st. FPP is Hal's get-out-of-jail-free card—and Steve realizes who'll get blamed if it fails.*
-
 
 At noon, Steve stepped out of the elevator into the penthouse foyer. He'd barely sat down on the leather couch when Halifax Gibbet—the CEO, five foot six inches tall and round—stomped out of Eleanor's office barking "No more excuses!" and marched straight past without acknowledging Steve's existence.
 
@@ -383,8 +382,6 @@ She said it so matter-of-factly that Steve blinked. "You're not upset?"
 > [!abstract] Chapter Summary
 > *Steve meets Ron McKnight, the grumpy old-timer who runs support and maintenance with a simple three-list system. Ron agrees to bump non-urgent work to make room for FPP bug fixes.*
 
-*Monday, August 7th.*
-
 Steve met with Ron McKnight, his support and maintenance manager to give him a heads up. Ron was a grey-haired, Wyx-Fin old-timer, a curmudgeonly mix of gruff, grumpy, dour, and a few of the other lesser-known Disney dwarfs. He'd worked within Wyx-Fin's software department forever and still rolled up his sleeves and got his hands dirty whenever they had particularly ugly technical problems.
 
 Steve asked him to clear space in the schedule for FPP bug fixing.
@@ -409,8 +406,6 @@ For now.
 
 > [!abstract] Chapter Summary
 > *Vrinda tells Steve that Gregor has been "lying" about project health—then Steve reveals they all knew April was unrealistic. She asks: "Surely there are better ways to motivate us lazy workers?"*
-
-*Tuesday, August 8th.*
 
 On the walk to his office, Steve stopped by Vrinda's cubicle, knelt beside her and said, "You were hard on Gregor, before." 
 
@@ -468,6 +463,8 @@ She shook her head. "I never said he's an ogre. I said he's an arse, and I think
 
 > [!abstract] Chapter Summary
 > *Steve finally meets Craig Lally for brunch. Craig draws out Steve’s problem and sketches it on a napkin. Steve names it Darth.*
+
+*Tuesday, August 8th.*
 
 After another not-so-gentle prompt from Norbert, Steve finally met Craig Lally for brunch in the staff cafeteria.
 
@@ -843,7 +840,6 @@ Steve liked that about him.
 
 > [!abstract] Chapter Summary
 > *Declan delivers a double blow: Chaste has moved their launch to February 1st—and Hal has issued a press release announcing Wyx-Fin will launch on December 1st. Hal has declared war on Chaste.*
-
 
 Outside in the sunlight, Steve spied Declan, the employee rep, sucking on an orange plastic cigar—a nicotine replacement device, apparently designed for extroverts.
 

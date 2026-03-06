@@ -1,1 +1,7 @@
-Create a script at `~/bin/claude-remote` that runs `claude remote-control --dangerously-skip-permissions` in a loop with auto-restart, and add an alias `rr` that calls it pointed at my Rolling Rocks Downsized Obsidian vault.
+# Test File
+
+This is a test file to verify the auto-merge workflow is working correctly.
+
+Created: 2026-03-04
+
+954
