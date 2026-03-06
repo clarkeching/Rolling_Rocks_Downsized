@@ -1,5 +1,5 @@
 
-# Part One: Steve's Seemingly Impossible Deadline
+# Part One: The Impossible Deadline
 
 ## Bacon and Bad News
 
