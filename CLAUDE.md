@@ -26,6 +26,7 @@ At the start of every session, BEFORE doing anything else:
 - `Concepts/` — key concepts
 
 ## Rules
+- Always commit and push directly to the main branch. NEVER create separate branches.
 - Always update `Session Log.md` after every decision, change, or commit. Include timestamps (e.g. `### Thing I did (~14:30)`).
 - Always commit and push after making changes. Use descriptive commit messages.
 - Never modify `Rolling Rocks Downhill Complete.md`.
